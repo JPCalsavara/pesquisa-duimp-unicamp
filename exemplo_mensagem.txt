@@ -1,0 +1,33 @@
+Você aceita melhorar a eficiência operacional das importações junto aos alunos da Unicamp?
+
+Olá, meu nome é João Calsavara, sou estudante de Análise e Desenvolvimento de Sistemas na Unicamp. Nosso grupo está desenvolvendo um projeto de pesquisa acadêmica sobre os principais desafios operacionais que empresas que operam com importação internacional enfrentam, possíveis atritos com exigência de dados e integração com o Siscomex.
+
+Um feedback de quem conhece o processo de verdade é fundamental para o nosso levantamento. Não se trata de nenhuma oferta comercial, venda de produto ou afins, nosso objetivo é simplesmente compreender sobre os fluxos reais de trabalho.
+
+A fim de sermos objetivos e economizar tempo, preparamos 4 perguntas curtas. Se aceitar participar voluntariamente deste levantamento, basta respondê-las diretamente por este e-mail (as perguntas estão logo abaixo). Suas respostas nos guiarão profundamente:
+
+1.⁠ ⁠Perfil da Operação: Vocês realizam o cadastro no Catálogo DUIMP internamente ou delegam essa etapa para um despachante aduaneiro?
+R:
+
+2.⁠ ⁠Gargalo Operacional: No cadastro de lotes com muitos itens, onde a equipe mais gasta tempo e esforço: classificação correta dos NCMs, ou na busca e preenchimento dos atributos? Este processo é manual?
+R:
+
+3.⁠ ⁠Origem dos Dados: No dia a dia, a Invoice e o Packing List enviados pelos fornecedores trazem todos os detalhes técnicos que o catálogo da DUIMP exige (Atributos por NCM), ou a equipe precisa buscar dados em catálogos, fichas técnicas (datasheets) ou sites de fabricantes?
+R:
+
+4.⁠ ⁠Ferramentas Atuais: Como vocês fazem a gestão e o preenchimento do catálogo DUIMP? Preencher diretamente no sistema de forma manual? Utilizam planilhas? Utilizam software para agilizar o processo de preenchimento?
+R:
+
+---
+
+Possibilidade de Aprofundamento:
+Caso faça sentido para você, poderíamos agendar um bate-papo curto de ~10 minutos (ou trocar áudios por WhatsApp) para entender melhor sobre o processo?
+
+Além disso, para a etapa prática do estudo na Unicamp, uma contribuição adicional seria o compartilhamento de um exemplo de invoice ou planilha, 100% descaracterizada e sem nenhum dado confidencial, apenas para modelarmos os atributos na pesquisa acadêmica.
+
+Agradeço desde já pela atenção e pelo apoio à pesquisa acadêmica da Unicamp.
+
+Atenciosamente,
+
+João Calsavara
+Faculdade de Tecnologia - Unicamp

@@ -1,0 +1,8 @@
+{
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "email_remetente": "seu_email@gmail.com",
+  "senha": "xxxx xxxx xxxx xxxx",
+  "nome_remetente": "Seu Nome Completo",
+  "delay_segundos": 2
+}

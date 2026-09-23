@@ -1,0 +1,13 @@
+# Credenciais e segredos (NUNCA subir para o GitHub)
+.env
+config.json
+
+# Cache e artefatos de compilação Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Arquivos temporários e scratch
+crop_*.png
+lavorwash.html
