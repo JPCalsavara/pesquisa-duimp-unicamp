@@ -11,7 +11,7 @@ import csv
 import time
 import json
 import smtplib
-from datetime import datetime
+from datetime import datetime, timedelta
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.header import Header
@@ -99,6 +99,11 @@ def carregar_config():
     except (ValueError, TypeError):
         delay_segundos = 2
 
+    try:
+        limite_diario = int(os.environ.get("LIMITE_DIARIO", env_data.get("LIMITE_DIARIO", config_json.get("limite_diario", 300))))
+    except (ValueError, TypeError):
+        limite_diario = 300
+
     if not email_remetente or not senha or "seu_email" in email_remetente or "sua_senha" in senha or "xxxx" in senha:
         print("[!] ATENÇÃO: Configure seu e-mail e senha no arquivo '.env' ou 'config.json' antes de enviar.")
         print("[!] Veja os modelos '.env.example' e 'config.example.json' para preencher com seus dados.")
@@ -110,7 +115,8 @@ def carregar_config():
         "nome_remetente": nome_remetente,
         "smtp_server": smtp_server,
         "smtp_port": smtp_port,
-        "delay_segundos": delay_segundos
+        "delay_segundos": delay_segundos,
+        "limite_diario": limite_diario
     }
 
 def carregar_enviados():
@@ -128,18 +134,56 @@ def carregar_enviados():
                     enviados.add(email)
     return enviados
 
-def registrar_envio(nome, email, empresa, status="ENVIADO"):
+def contar_envios_24h(email_remetente=None):
+    """
+    Conta quantos e-mails foram enviados com sucesso nas últimas 24 horas.
+    Permite filtrar por remetente específico para equipes trabalhando em conjunto.
+    """
+    if not os.path.exists(ENVIADOS_FILE):
+        return 0
+
+    limite_tempo = datetime.now() - timedelta(hours=24)
+    total_24h = 0
+
+    with open(ENVIADOS_FILE, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            status = row.get("status", "").strip()
+            if status.startswith("ERRO"):
+                continue
+
+            data_str = row.get("data_hora", "").strip()
+            if not data_str:
+                continue
+
+            try:
+                dt = datetime.strptime(data_str, "%Y-%m-%d %H:%M:%S")
+            except ValueError:
+                continue
+
+            if dt >= limite_tempo:
+                rem_row = row.get("remetente", "").strip().lower()
+                if email_remetente and rem_row:
+                    if rem_row == email_remetente.lower():
+                        total_24h += 1
+                else:
+                    total_24h += 1
+
+    return total_24h
+
+def registrar_envio(nome, email, empresa, status="ENVIADO", remetente=""):
     existe = os.path.exists(ENVIADOS_FILE)
     with open(ENVIADOS_FILE, "a", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
         if not existe:
-            writer.writerow(["data_hora", "nome", "email", "empresa", "status"])
+            writer.writerow(["data_hora", "nome", "email", "empresa", "status", "remetente"])
         writer.writerow([
             datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             nome,
             email,
             empresa,
-            status
+            status,
+            remetente
         ])
 
 def formatar_saudacao(nome_completo):
@@ -183,14 +227,19 @@ def ler_contatos():
             })
     return contatos
 
-def simular_envios(contatos, nome_remetente="João Calsavara"):
+def simular_envios(contatos, nome_remetente="João Calsavara", email_remetente=None, limite_diario=300):
     print("\n" + "="*60)
     print(" 🔍 MODO SIMULAÇÃO (DRY RUN) - NENHUM E-MAIL SERÁ ENVIADO")
     print("="*60)
     
     enviados = carregar_enviados()
     pendentes = [c for c in contatos if c["email"].lower() not in enviados]
+    envios_24h = contar_envios_24h(email_remetente)
     
+    print(f"Remetente: {nome_remetente} ({email_remetente or 'Não configurado'})")
+    print(f"Cota nas últimas 24h: {envios_24h}/{limite_diario} e-mails")
+    if envios_24h >= limite_diario:
+        print("⛔ ATENÇÃO: Cota diária máxima de 24h atingida para este remetente!")
     print(f"Total de contatos na planilha: {len(contatos)}")
     print(f"Já enviados anteriormente: {len(contatos) - len(pendentes)}")
     print(f"Pendentes de envio: {len(pendentes)}\n")
@@ -246,9 +295,40 @@ def enviar_todos(limite=None, auto_confirm=False):
         print("  python3 enviar_emails.py --dry-run\n")
         return
 
-    print(f"[+] Remetente configurado: {config['email_remetente']} ({config.get('nome_remetente', 'Remetente')})")
-    print(f"[+] Intervalo entre envios: {config.get('delay_segundos', 8)} segundos")
-    
+    remetente_email = config["email_remetente"]
+    nome_remetente = config.get("nome_remetente", "João Calsavara")
+    limite_diario = config.get("limite_diario", 300)
+    delay = config.get("delay_segundos", 2)
+
+    # Verificação de segurança da cota diária nas últimas 24 horas
+    envios_24h = contar_envios_24h(remetente_email)
+
+    print(f"[+] Remetente configurado: {remetente_email} ({nome_remetente})")
+    print(f"[+] Cota utilizada nas últimas 24h: {envios_24h}/{limite_diario} e-mails")
+    print(f"[+] Intervalo entre envios: {delay} segundos")
+
+    # ⛔ TRAVA DE SEGURANÇA: Se já atingiu a cota diária, aborta antes de abrir conexão
+    if envios_24h >= limite_diario:
+        print("\n" + "="*72)
+        print(" ⛔ TRAVA DE SEGURANÇA ATIVADA: COTA DIÁRIA ATINGIDA")
+        print("="*72)
+        print(f"O remetente '{remetente_email}' já realizou {envios_24h} envios nas últimas 24 horas.")
+        print(f"O limite máximo seguro diário é de {limite_diario} e-mails por conta.")
+        print("O envio foi BLOQUEADO para proteger sua conta do Gmail contra bloqueio/suspensão.")
+        print("\nComo prosseguir:")
+        print("  1. Outro colega do grupo pode rodar este script configurando o próprio e-mail no .env")
+        print("  2. Ou aguarde até que a janela de 24 horas libere novos envios.")
+        print("="*72 + "\n")
+        return
+
+    cota_restante = limite_diario - envios_24h
+    if len(pendentes) > cota_restante:
+        print(f"\n[!] Atenção: Sua cota diária restante é de {cota_restante} e-mails.")
+        print(f"[!] Ajustando o lote atual de {len(pendentes)} para {cota_restante} contatos para respeitar a cota.")
+        pendentes = pendentes[:cota_restante]
+
+    print(f"\n[+] Total de contatos selecionados para envio nesta rodada: {len(pendentes)}")
+
     if not auto_confirm:
         confirma = input("\nDeseja iniciar os disparos reais agora? (digite 'sim' para confirmar): ").strip().lower()
         if confirma != "sim":
@@ -263,11 +343,16 @@ def enviar_todos(limite=None, auto_confirm=False):
         print(f"[-] Falha ao autenticar no servidor SMTP: {e}")
         return
 
-    delay = config.get("delay_segundos", 8)
     total = len(pendentes)
 
     try:
         for idx, c in enumerate(pendentes, start=1):
+            # Trava em tempo real caso alcance a cota durante o loop
+            if envios_24h + idx > limite_diario:
+                print(f"\n[!] Cota diária atingida ({limite_diario} e-mails nas últimas 24h).")
+                print("[!] Encerrando envio com segurança para proteger a conta.")
+                break
+
             nome = c["nome"]
             destinatario = c["email"]
             empresa = c["empresa"]
@@ -277,29 +362,28 @@ def enviar_todos(limite=None, auto_confirm=False):
             msg = MIMEMultipart("alternative")
             msg["Subject"] = Header(ASSUNTO_PADRAO, "utf-8").encode()
             
-            nome_remetente = config.get("nome_remetente", "João Calsavara")
-            msg["From"] = formataddr((str(Header(nome_remetente, "utf-8")), config["email_remetente"]))
+            msg["From"] = formataddr((str(Header(nome_remetente, "utf-8")), remetente_email))
             msg["To"] = formataddr((str(Header(nome, "utf-8")), destinatario))
 
             corpo = gerar_mensagem(nome, nome_remetente)
             msg.attach(MIMEText(corpo, "plain", "utf-8"))
 
             try:
-                server.sendmail(config["email_remetente"], [destinatario], msg.as_string())
-                registrar_envio(nome, destinatario, empresa, "ENVIADO")
+                server.sendmail(remetente_email, [destinatario], msg.as_string())
+                registrar_envio(nome, destinatario, empresa, "ENVIADO", remetente_email)
                 print("✓ Enviado com sucesso!")
             except Exception as env_err:
                 err_str = str(env_err)
                 print(f"✗ Erro: {err_str}")
-                registrar_envio(nome, destinatario, empresa, f"ERRO: {err_str}")
+                registrar_envio(nome, destinatario, empresa, f"ERRO: {err_str}", remetente_email)
 
                 # Limite diário do Gmail atingido (500 e-mails/dia via SMTP)
                 if "Daily user sending limit exceeded" in err_str or "5.4.5" in err_str:
                     print("\n" + "="*70)
                     print("[!] ATENÇÃO: LIMITE DIÁRIO DO GMAIL ATINGIDO (Erro 550 / 5.4.5).")
-                    print("[!] O Google limita contas pessoais a 500 envios por dia via SMTP.")
-                    print("[!] O envio foi interrompido imediatamente para proteger a sua conta.")
-                    print("[!] Aguarde até 24h para o reset do contador antes de enviar novamente.")
+                    print("[!] O Google limita contas a 500 envios por dia via SMTP.")
+                    print("[!] O envio foi travado imediatamente para proteger a sua conta.")
+                    print("[!] Peça para outro colega continuar os envios no .env.")
                     print("="*70 + "\n")
                     break
 
@@ -332,9 +416,11 @@ if __name__ == "__main__":
     if args.dry_run:
         config = carregar_config()
         nome_rem = config.get("nome_remetente", "Remetente") if config else "Remetente"
+        email_rem = config.get("email_remetente") if config else None
+        lim_diario = config.get("limite_diario", 300) if config else 300
         contatos = ler_contatos()
         if args.limite:
             contatos = contatos[:args.limite]
-        simular_envios(contatos, nome_rem)
+        simular_envios(contatos, nome_rem, email_rem, lim_diario)
     else:
         enviar_todos(limite=args.limite, auto_confirm=args.yes)

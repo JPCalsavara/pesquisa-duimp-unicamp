@@ -111,7 +111,12 @@ Caso queira enviar para todos os contatos pendentes de uma só vez (sem limite):
 python3 enviar_emails.py
 ```
 
-O script aplica um intervalo de segurança configurável entre cada envio (padrão 8 segundos no `config.json`) para proteção anti-spam.
+O script aplica um intervalo de segurança configurável entre cada envio (padrão 2 segundos no `.env` / `config.json`) para proteção anti-spam.
+
+> 🛡️ **Trava Automática de Cota Diária:**
+> Para evitar bloqueios do Google (limite de 500/dia), o script possui uma **trava de segurança configurada em 300 e-mails por dia**.
+> Se você atingir 300 envios nas últimas 24 horas, o script trava automaticamente antes de conectar no SMTP.
+> Caso a cota seja atingida, basta que outro integrante do grupo configure seu próprio e-mail no `.env` para continuar os envios!
 
 ---
 
