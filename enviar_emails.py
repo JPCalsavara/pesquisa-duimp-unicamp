@@ -10,6 +10,7 @@ import sys
 import csv
 import time
 import json
+import random
 import smtplib
 from datetime import datetime, timedelta
 from email.mime.text import MIMEText
@@ -95,9 +96,17 @@ def carregar_config():
         smtp_port = 587
 
     try:
-        delay_segundos = int(os.environ.get("DELAY_SEGUNDOS", env_data.get("DELAY_SEGUNDOS", config_json.get("delay_segundos", 2))))
+        delay_min_segundos = float(os.environ.get("DELAY_MIN_SEGUNDOS", env_data.get("DELAY_MIN_SEGUNDOS", config_json.get("delay_min_segundos", 2))))
     except (ValueError, TypeError):
-        delay_segundos = 2
+        delay_min_segundos = 2
+
+    try:
+        delay_max_segundos = float(os.environ.get("DELAY_MAX_SEGUNDOS", env_data.get("DELAY_MAX_SEGUNDOS", config_json.get("delay_max_segundos", 4))))
+    except (ValueError, TypeError):
+        delay_max_segundos = 4
+
+    if delay_max_segundos < delay_min_segundos:
+        delay_min_segundos, delay_max_segundos = delay_max_segundos, delay_min_segundos
 
     try:
         limite_diario = int(os.environ.get("LIMITE_DIARIO", env_data.get("LIMITE_DIARIO", config_json.get("limite_diario", 300))))
@@ -115,7 +124,8 @@ def carregar_config():
         "nome_remetente": nome_remetente,
         "smtp_server": smtp_server,
         "smtp_port": smtp_port,
-        "delay_segundos": delay_segundos,
+        "delay_min_segundos": delay_min_segundos,
+        "delay_max_segundos": delay_max_segundos,
         "limite_diario": limite_diario
     }
 
@@ -134,14 +144,21 @@ def carregar_enviados():
                     enviados.add(email)
     return enviados
 
-def contar_envios_24h(email_remetente=None):
+def contar_envios_24h(email_remetente):
     """
-    Conta quantos e-mails foram enviados com sucesso nas últimas 24 horas.
-    Permite filtrar por remetente específico para equipes trabalhando em conjunto.
+    Conta quantos e-mails um remetente específico enviou com sucesso nas
+    últimas 24 horas. A cota é sempre por pessoa (por conta de e-mail): como
+    várias pessoas do grupo rodam este script, cada uma com sua própria conta
+    Gmail, envios de outros remetentes (ou registros antigos sem remetente
+    identificado) nunca contam para a cota de quem está enviando agora.
     """
+    if not email_remetente:
+        return 0
+
     if not os.path.exists(ENVIADOS_FILE):
         return 0
 
+    email_remetente = email_remetente.strip().lower()
     limite_tempo = datetime.now() - timedelta(hours=24)
     total_24h = 0
 
@@ -161,13 +178,12 @@ def contar_envios_24h(email_remetente=None):
             except ValueError:
                 continue
 
-            if dt >= limite_tempo:
-                rem_row = row.get("remetente", "").strip().lower()
-                if email_remetente and rem_row:
-                    if rem_row == email_remetente.lower():
-                        total_24h += 1
-                else:
-                    total_24h += 1
+            if dt < limite_tempo:
+                continue
+
+            rem_row = (row.get("remetente") or "").strip().lower()
+            if rem_row == email_remetente:
+                total_24h += 1
 
     return total_24h
 
@@ -298,14 +314,15 @@ def enviar_todos(limite=None, auto_confirm=False):
     remetente_email = config["email_remetente"]
     nome_remetente = config.get("nome_remetente", "João Calsavara")
     limite_diario = config.get("limite_diario", 300)
-    delay = config.get("delay_segundos", 2)
+    delay_min = config.get("delay_min_segundos", 2)
+    delay_max = config.get("delay_max_segundos", 4)
 
     # Verificação de segurança da cota diária nas últimas 24 horas
     envios_24h = contar_envios_24h(remetente_email)
 
     print(f"[+] Remetente configurado: {remetente_email} ({nome_remetente})")
     print(f"[+] Cota utilizada nas últimas 24h: {envios_24h}/{limite_diario} e-mails")
-    print(f"[+] Intervalo entre envios: {delay} segundos")
+    print(f"[+] Intervalo entre envios: {delay_min}-{delay_max} segundos (aleatório)")
 
     # ⛔ TRAVA DE SEGURANÇA: Se já atingiu a cota diária, aborta antes de abrir conexão
     if envios_24h >= limite_diario:
@@ -393,7 +410,7 @@ def enviar_todos(limite=None, auto_confirm=False):
                     break
 
             if idx < total:
-                time.sleep(delay)
+                time.sleep(random.uniform(delay_min, delay_max))
 
     except KeyboardInterrupt:
         print("\n\n[!] Envio interrompido pelo usuário. O progresso foi salvo em enviados.csv.")
