@@ -321,3 +321,291 @@ data_hora,nome,email,empresa,status,remetente
 2026-09-23 19:53:46,Carmen Cavalieri,carmen.cavalieri@duringdobrasil.com.br,During do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
 2026-09-23 19:53:49,Mauricio Freitas,mapf@durex.com.br,Durox Produtos Químicos Ltda.,ENVIADO,azevedohitallo@gmail.com
 2026-09-23 19:53:54,Juliano Versoni,compras@dynamicair.com.br,Dynamic Air Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:11,Ficher,dina@dina.com.br,Dynar Automatização Industrial Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:16,Ronaldo Akira Nishikawa,inteldept@ebara.com.br,Ebara Indústrias Mecânicas e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:20,Alessandra Bigatto,alessandra@ebco.com.br,Ebco Systems Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:25,Gabriella M. Zezze,adriana@ebf.com.br,Ebf Vaz Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:29,Celise Biasoli,celise.biasoli@br.ebmpapst.com,Ebm-Papst Motores Ventiladores Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:33,Claudio Zoega,claudio@ecil.com.br,Ecil Met Tec Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:37,Cláudio Zoega,zelha@ecil.com.br,Ecil Produtos e Sistemas de Medição e Controle Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:43,Sandra Porta,ecofabril@ecofabril.com.br,Ecofabril Ind. e Com. S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:47,Cristina,edalbras_import@edalbras.com.br,Edalbras Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:51,Rina,carol.rina@caras.com.br,Editora Caras S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:54:56,Norma,compras@editoradcl.com.br,Editora DCL - Difusão Cultural do Livro Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:00,Rinaldo Silva,rinaldo.silva@ftd.com.br,Editora FTD S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:04,Reinaldo Matos,rsmatos@melhoramentos.com.br,Editora Melhoramentos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:09,Vagner Brito,vagner.brito@edra.com.br,Edra Saneamento Básico Ind. e Com.Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:14,Everaldo Frason,continental@continentalparafusos.com.br,Egsa Equipamentos Para Gás do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:19,Tatiana Gelardo,volk@volkdobrasil.com.br,Elantas Isolantes Elétricos do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:24,Wellington Costa,wellington.costa@eletrisol.com.br,Eletrisol Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:29,Antônio Celso Liberal,comercial@dyna.com.br,Eletromecânica Dyna S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:34,Jaime Splettstoser Júnior,luizcarlos@elfusa.com.br,Elfusa Geral de Eletrofusão Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:38,Roberto Ceder,cuisine@elgin.com.br,Elgin Cuisine,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:42,Estela Perez,estela@elubel.com.br,Elubel Indústria e Comércio Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:46,Felipe  Viana,vianna_felipe@emc.com,Emc Computer Systems Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:52,Sanda Yamashiro,compras@buw.com.br,Emcomex Empresa de Comércio Exterior Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:55:57,Cicero Soares,cicero.soares@emersonenergy.com,Emerson Sistemas de Energia Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:01,Antonio Carlos Gonçalves,emicol@emicol.com.br,Emicol Eletro Eletrônica S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:06,Sarita Ortiz,saritaortiz@empax.com.br,Empax Embalagens Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:11,Humberto Ustoliar,ecil@ecil-trading.com.br,Empreendimento Comercial Industrial Ecil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:16,Claudia,claudia@bateriascral.com.br,Endress Hauser Controle e Automação Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:21,Wagner,wagner.imtex@energyarc.com.br,Energyarc Industrial Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:25,Ani,import@engefood.com.br,Engefood Equipamentos Engenharia e Representações Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:30,Ivo Saldanha,comercial@engepack.com.br,Engepack Embalagens São Paulo Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:35,Vanessa,vanessa@engereus.com.br,Engereus do Brasil Engenharia e Ind. Eletro Eletronica Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:40,Diogo Passos,diogo@epice.com.br,Epice Importação Comércio e Representacões Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:45,Teresa Matsumura,tereza@harman.com.br,Equigas Equipamentos de Gases Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:50,Marisa,compras@emeb.com.br,Equipamentos Emeb do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:56:55,Marcos,marcos@rinnai.com.br,Equipamentos NGK Rinnai Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:00,Fernanda Stefani,fernanda.stefani@telcon.com.br,Equipar - Com. de Equip. Laboratoriais e Hospitalares Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:03,Haribert Frustockl,ekipesca@supernet.com.br,Equipesca - Equipamentos para Pesca Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:07,José Teiji Suzuki,ergomat@ergomat.com.br,Ergomat Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:11,Roberto,roberto@eros.com.br,Eros Alto Falantes Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:15,Karin Brigitte Guth,export@erwinguth.com.br,Erwin Guth Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:21,Isabel Robles,espabra@espabra.com.br,Espabra Generos Alimentícios Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:26,Juan Carlos Moscovich,juan@etilux.com.br,Etilux Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:31,Neli Miranda,euchner@euchner.com.br,Euchner Comércio de Componentes Eletrônicos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:36,Ricardo Chammas,eurocabos@eurocabos.com.br,Eurocabos Materiais Elétricos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:39,Marcos Pereira dos Santos,marcos@euroquadros.com.br,Euroquadros Ind. Imp. e Exp. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:43,Cristiane,eurtoex@eurotex.com.br,Eurotex Com. e Imp. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:48,Luciana Sabino Rodrigues,comex@esab.com.br,Eutectic do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:52,Christiane Satty Katsumata,export@evergreen.com.br,Ever Green Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:57:57,Rogério,compras@evolutionluz.com.br,Evolution Com. Imp. e Exp. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:02,M. Carmen Kazniakowski,carmen.kazniakowski@flsmidth.com.br,F. L. Smidth Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:07,Debora Gonçalves,leonardo.gouveia@effem.com,F. M. B. Inc. e Cia.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:12,José Antonio Garcia Segovia,export@fabrima.com.br,Fabrima Máquinas Automáticas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:17,Valdemir Gomes Siqueira,valdemir.gomes@fademac.com.br,Fademac S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:20,Maicon Isidoro,maicon.isidoro@fanucamerica.com,Fanuc South America Equipamentos de Automação e Serviços Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:24,Paulo,paulo@fobrasa.com.br,Farnell-Newark Inone Dist. de Componentes Eletrônicos,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:29,Rude,rude@japanparts.com.br,Fast Lube Comércio de Lubrificantes Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:34,Shirley Fukiko Imai,fatec@ibm.net,Fatec S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:39,Paula,brasil@favini.com,Favini do Brasil Importação e Venda de Papel Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:43,Armando Geraldo Bredariol,gbredariol@alpinatextil.net,Fiação Alpina Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:47,Milene Córdoba,m.cordoba@findernet.com,Finder Componentes Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:51,Rafael,finepack@finepack.com.br,Finepack Industria Tecnica de Embalagens Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:55,Daniel,daniel@fise.com.br,Fise-Fechoplast Industria de Sistemas para Esquadrias Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:58:58,Cristiane Mesiano,cris.mesiano@flamex.com.br,Flamex Comércio Importação e Exportação Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:02,Viviane Silva,importacao@flexform.com.br,Flexform Ind. Metalúrgica Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:07,Marcel Alves,marcel.alves@flir.com.br,Flir Systems Brasil Com. de Câmeras Infravermelhas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:11,Jose Marcos Boni Costa,diretoria@marcoboni.com.br,Florence Industrial e Comercial Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:17,Gabriel Ribeiro,gabriel.ribeiro@flow-tek.com,Flow Tek Ind. e Com. de Válvulas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:21,Livia R Rocha,fluid@fluidbrasil.com.br,Fluid Brasil Sistemas e Tecnologia Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:25,Adriana Silva,adriana.silva@fluke.com,Fluke do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:28,Cristian,amg.flumar@granel.com.br,Flumar Transportes de Químicos e Gases Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:32,Daniel Fernandes,compras@flutrol.com.br,Flutrol Comercio e Controle de Fluidos Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:37,Renato Carneiro,flygt@flygt.com.br,Flygt do Brasil S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:42,Juliana Arena,juliana.lobello@ivoclarvivadent.com.br,Fobrasa Com. e Ind. de Máquinas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:46,Denis Rojas,foothills@foothills.com.br,Foothills Indústria e Comércio Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:51,Marilia Bashiera,marilia.bashiera@forplasembalagens.com.br,For-Plas Indústria de Embalagens Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 19:59:56,Marcilene,marcilene@forbex.com,Forbex Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:01,Denis,forpal@forpal.com.br,Fornecedora de Papel Forpal S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:06,Eduardo Debiagi,info@fortitech.com.br,Fortitech South America Industrial e Comercial Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:09,Antônio,brasil@foss.dk,Foss do Brasil Instrumentos Analiticos e Soluções Dedicadas Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:13,Sérgio,sbj@ts.com.br,Fratex Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:17,André,administracao@frisokar.com.br,Frisokar Equipamentos Plásticos S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:22,Fernando Fontes,fernando_fontes@etilux.com.br,Fronius do Brasil Com. Ind. e Serviços Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:28,Alexandre,hetros@hetrosfrutas.com.br,Frugal Importadora e Exportadora Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:32,Lucas,lucas@frutart.com.br,Frutart Comércio de Produtos Agrícolas Eireli,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:37,Claudio De Benedictis,claudio@fruticolacacique.com.br,Frutícola Cacique Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:41,Rosana Aparecida Benevenuto,fuchsbr@uol.com.br,Fuchs do Brasil S/A,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:46,Lucia,fuji@fujibrasil.com.br,Fuji do Brasil Máquinas Inds. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:50,Valdira,comercialvlc@uol.com.br,Full - Power Com. e Confecções Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:00:55,Ariel Hamoui,ariel@fullfit.com.br,Full Fit Industria Importação e Comercio Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:01,Ednelson,epristinta@epristinta.com.br,Fábrica de Artefatos de Latex Estrela - Epristinta Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:06,Jutta Hosman,wafios@sol.com.br,Fábrica de Máquinas Wdb Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:10,Adriana,fenixsp@yahoo.com.br,Fênix Comercio Importação e Exportação Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:13,Cassia Regina Vanicola/Eduardo de Souza Moura,cvanicola@gdbr.com.br,G.D do Brasil Máquinas de Embalar Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:18,Luis Gaj,grmusic@uol.com.br,G.R.Instrumentos Musicais Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:22,Selma Faria Costa,scosta@gafor.com.br,Gafor Com. de Produtos Químicos e Papéis Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:26,Suelen,suelen@gail.com.br,Gail Guarulhos Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:31,Rosana Goncalves Mello Henrique,rosana@gascat.com.br,Gascat Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:36,David Ribas,fernando_vicini@johnsonelectric.com,Gate do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:40,Eduardo R. Santos,eduardo.santos@ps.ge.com,Ge Hydro Inepar do Brasil S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:45,Heloize,heloize@gefran.com.br,Gefran Brasil Eletroeletrônica Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:49,Giuliano Bertella,info@genco.com.br,Genco Química Industrial Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:53,João Soares,joao.soares@gep.com.br,Gep Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:01:57,José Alfredo Brates,comex.gequimica@ig.com.br,Gequímica Produtos Química Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:01,Alexsandra Arruda,a.arruda@gerresheimer.com,Gerresheimer Plásticos São Paulo Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:05,Sr. Brici,brici@endo-flex.com.br,Gfe do Brasil Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:09,Aldaiza Bergamo,importacao@giannini.com.br,Giannini S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:14,Rodrigo,compras@girbau.com.br,Girbau do Brasil Máquinas de Lavanderia Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:19,Cristiane Dantas,cristiane.dantas@gkn.com,GKN Sinter Metals Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:24,Sr. Didier,brasil@ggbearings.com,Glacier Garlock Bearings do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:28,Douglas Carlo,douglas.carlo@clariant.com,Global Amines Comercio de Produtos Químicos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:34,Netto,compras@globalpetsa.com.br,Global Pet Reciclagem S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:39,Olívia Agnelli,olivia.agnelli@globalfood.com.br,Globalfood Sistemas Ingredientes e Tecnologia para Alimentação Lt,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:45,Fabio G. Pinto / Sergio Veiga,admvendas@globalpack.com.br,Globalpack Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:51,Carina Piccolotto,comercial@globequimica.com.br,Globe Química Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:02:57,Cristina Iorio / Thaina Leite,cristina.iorio@br.glory-global.com,Glory Global Solutions (Brasil) Máquinas e Equipamentos,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:02,Cleide Amaro,camaro@gnresound.com.br,Gn Resound Industria e Comercio de Aparelhos Auditivos Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:07,Milton Cardoso,grammer@atinet.com.br,Grammer do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:17,Kity Komaya,granol.ana@granol.com.br,Granol Ind. Com. e Exp. S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:21,João Mariano,joaomariano@biosoja.com.br,Granorte Fertilizantes Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:25,Daniela Missano,daniela.missano@graphicpkg.com.br,Graphic Packaging International do Brasil - Embalagens,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:32,Kátia Silva,katia.silva@gbo.com,Greiner Bio-One Brasil Produtos Médicos Hospitalares Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:37,João Vicente Panellã Motta,grow@dialdata.com.br,Grow Jogos e Brinquedos S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:41,Edmilson Boteon,edmilson.boteon@embramaco.com.br,Grupo Embramaco - Empresa Brasileira de Materiais para Construção,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:46,Alethea  (Sra.),compras@trousseau.com.br,Gvr Home Ind. e Com. de Enxovais Ltda. -Trousseau,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:51,Renato Kanetaka / Eduardo Ramalho,renato.kanetaka@gvs.com,Gvs do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:03:56,Karina Balejo,karina.balejo@gen.com.br,Gênese Produtos Farmacêuticos e Diagnósticos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:00,Ana Luiza Teixeira,analuiza.teixeira@habasit.com.br,Habasit do Brasil Ind. e Com. de Correias Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:06,Renata,renata@haitian.com.br,Haitian Huayuan South America Comércio de Máquinas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:11,Marcio Garcia,info@hbr.haldex.com,Haldex do Brasil Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:16,Sandra Vallilo,sandra.vallilo@hamon.com,Hamon do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:21,Ana Maria,ana@handle.com.br,Handle Com. de Equipamentos Médicos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:27,Carmem Barbosa,carmem.barbosa@harris-brastak.com.br,Harris Soldas Especiais S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:31,Dulcelina Dias,comunica@haverbrasil.com.br,Haver e Boecker Latinoamericana Máquinas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:37,Joaquim Esteves,joaquim.esteves@hbr.net,HBR Equipamentos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:42,Marcio Favilla,fhassun@hellermanntyton.com.br,Hellermanntyton Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:47,Vania Lucia Feitosa,heraeus@uol.com.br,Heraeus Electro-Nite Instrumentos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:53,Luiz Henrique da Silva Freitas,vendas@herbicat.com.br,Herbicat Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:04:59,Leonardo Ventura,leonardo.ventura@hexagon.com,Hexagon Metrology Sistemas de Medição Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:03,Fernanda,fernanda@hidroall.com.br,Hidroall do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:09,Giseli Fernanda Oliviera,giseli@hoerbiger.com.br,Hoerbiger do Brasil Indústria de Equipamentos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:13,Jhorgi Higashi,jhorgi.higashi@altana.com,Homag South America Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:19,Mauricio,marketing@honeywell.com,Honeywell do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:23,Eliana Santos,eliana@huesker.com.br,Huesker Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:29,Paula Gonzaga,pgonzaga@husky.ca,Husky do Brasil Sistemas de Injeção Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:35,Rodolfo Domingues,rodolfo.domingues@hydro.com,Hydro Alumínio Acro S/A,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:40,Luciana Masetti,pbarros@hypercom.com,Hypercom do Brasil Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:45,José Lúcio Casteliano,hubner@hubner.com.br,Hübner Sanfonas Industriais Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:49,Sueli Nakama,iqbc@iqbc.com.br,I.Q.B.C.Produtos Químicos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:54,Helena Pocas Leitao,editoras@ibep-nacional.com.br,IBEP -  Instituto Brasileiro de Edições Pedagogicas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:05:58,Juliano Pinheiro,juliano.pinheiro@iberoquimica.com.br,Iberoquimica do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:03,Solange,solange@ibg.com.br,Ibg Industria Brasileira de Gases Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:09,Glaucia,compras@ibratecgrafica.com.br,Ibratec Artes Gráficas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:14,Andrea Costa Braga,andrea@iccbrazil.com.br,Icc Industrial Com. Exp. e Imp. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:19,Sidnei,suprimentos@ideaquimica.com.br,Idea Química Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:25,José,jose@idealwork.com.br,Ideal Work Uniformes e E.P.I.S Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:30,Carlos Alberto Presa,exportation@igaratiba.com.br,Igaratiba Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:34,Andre Tavan,fatima@funcex.org.br,Iglu Comercial e Importadora Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:38,João,joao@caporal.com.br,Iimak da Amazônia Fitas Para Impressão Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:42,Fábio,imagraf@imagrafbrasil.com.br,Imagraf Ind. de Tintas Graficas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:47,Mariza C. Maset Nunes,marketing@norgren.com.br,Imi Norgren Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:52,Sérgio Teixeira Rolão,impacta@impacta-brazil.com.br,Impacta S.A. Ind. e Com.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:06:56,Rivaldo,rivaldo@imparsports.com.br,Impar Sports Ind. e Com. de Materiais Esportivos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:01,Jefferson,jefferson@guririltda.com.br,Importadora e Exportadora Guriri Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:05,Cristiane Barcelos,ambriex@ambriex.com.br,Importação Indústria e Comércio Ambriex S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:11,Alfredo Queiroz,inalfa@inalfa.com.br,Inalfa América do Sul Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:16,Shislene Campisi,edson.saniotto@inapel.com.br,Inapel Embalagens Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:21,Teodoro Canossa,inbra@originet.com.br,Inbra Indústrias Químicas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:25,Luciano Baptista,luciano.baptista@inbrasp.ind.br,Inbrasp - Indúustria Brasileira de Plásticos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:30,Fabiano,incomaf@incomaf.com.br,Incomaf S.A. Ind. e Com.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:34,Petsie Pennings,petsie.pennings@incotec.com.br,Incotec América do Sul Tecnologia em Sementes Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:38,Isaura Tozan,isauratozan@azumakirin.com.br,Ind. Agrícola Tozan Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:42,Heraldo / André,export@indbandeirante.com.br,Ind. Bandeirante de Artef. de Plásticos e Madeira Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:46,Simone,financeiro@ibbaloes.com.br,Ind. Brasileira de Balões S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:51,Pedro Pella,nautika@uol.com.br,Ind. Brasileira de Infláveis Nautika Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:07:56,Luiz,luiz@feltrossantafe.com.br,Ind. de Feltros Santa Fé S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:01,Gilberto de Lemos Ribeiro,gilberto@trifil.com.br,Ind. de Meias Scalina Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:06,André Marques,marine@francanet.com.br,Ind. e Com. de Calçados e Artigos de Couro Mariner Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:10,Ivini Granado,export@predilecta.com.br,Ind. e Com. de Conservas Alimentícias Predilecta Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:15,Wagner de La Rovera Pinto,export@zaraplast.com.br,Ind. e Com. de Plásticos Zaraplast Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:20,Christian Kaufmann,vendas@gehaka.com.br,Ind. e Com. Eletro Eletrônica Gehaka Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:25,Fernando Araújo Vitor,jakatz@ibm.net,Ind. e Com. Jolitex Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:29,Carolina Machado,carolina.exp@foroni.com.br,Ind. Gráfica Foroni Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:34,Armando Azevedo da Silva,exportacao@jandaia.com,Ind. Gráfica Jandaia Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:37,Luiz,luiz@samot.com.br,Ind. Mecânica Samot Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:41,Alvaro,alvaro@ima.com.br,Ind. Metalúrgica Alli Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:46,Jailson,erik.parronchi@quimicanastacio.com.br,Ind. Química Anastácio S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:50,Fabiana Teles,fabiana@una.com.br,Ind. Química Una Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:08:56,Tania Regina Moreti,vivian.cunha@indebras.com.br,Indebras Ind. Eletromecânica Brasileira Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:00,Dirnei de Almeida,index@indextornos.com.br,Index Tornos Automáticos Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:04,Katia,inductotherm@inductotherm.com.br,Inductotherm Group Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:08,HEBER,export@induscabos.com.br,Induscabos Condutores Elétricos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:11,Ivo M. Belucci,ivombelucci@caio.com,Induscar Ind. e Com. de Carrocerias Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:16,José Roberto Tavares Brunherotto,parquet@indusparquet.com.br,Indusparquet Ind. e Com. de Madeiras Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:22,Marcio Kelen,marciokelen@kels.com.br,Industria Metaloquimica Kels Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:27,Marcos Alexandre,plasticosbariri@plasticosbariri.com.br,Indústria de Plásticos Bariri Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:32,Marcelo Massa,resistente@linhasresistente.com.br,Indústria e Comércio de Linhas Resistente Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:36,Marcia Barbulin,vendas@leal.com.br,Indústria e Comércio Leal Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:41,Anita,compras2@maxdel.ind.br,Indústria Metalúrgica Maxdel Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:46,Edna Jewel,arteb@arteb.com.br,Indústrias Arteb S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:52,Serafím José Lorenzo V.,ibarcomercioexterior@ig.com.br,Indústrias Brasileiras de Artigos Refratários - Ibar Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:09:57,Daniela Cunha,daniela.cunha@ingenico.com.br,Ingenico do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:02,Patricia Esteves,patricia.esteves@ingeteam.com,Ingeteam Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:07,Paulo Cesar Saldanha Rodrigues,injex@injex.com.br,Injex Indústrias Cirúrgicas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:11,Felipe Cury,felipe.cury@injex.com.br,Injex Pen Ind. e Com. de Artigos Plásticos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:15,Amos Teles,amos.teles@innovapack.com.br,Innovapack Embalagens Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:20,Renan Tacara,renan_tacara@cargill.com,Innovatti - Ind. e Com. de Ésteres Sintéticos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:24,Maria Teresa Campos,teresasm@ipt.br,Instituto de Pesquisas Tecn do Est de S P S.A. I P T,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:28,Marco,compras@instrutherm.com.br,Instrutherm Instrumentos de Medição Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:33,Renato,renato@intercomquimica.com.br,Intercom Comercio de Produtos Químicos Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:38,Luciano Bonini,luciano.bonini@us.interfaceinc.com,Interface Flooring Systems Comercial Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:43,Regiane,importacao@interlabdist.com.br,Interlab Distribuidora de Produtos Científicos S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:47,Lucila M. Tardivo Prandini,intermedic@uol.com.br,Intermedic Technology Importação e Exportação Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:51,Bianca,import2@intersteel.com.br,Intersteel Aços e Metais Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:10:56,Newton Santos,ns@intrupabrasil.com.br,Intrupa do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:01,Carlos Hoesker,carlos.a.hoesker@invensys.com,Invensys Appliance Controls Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:05,GRACIELA R. BOARETI,office@inylbra.com.br,Inylbra Tapetes e Veludos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:10,Paulo,ipaina@uol.com.br,Ipanema Importadora Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:15,Maria Aparecida Nascimento Lima,maria@irizar.com.br,Irizar Brasil S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:19,Jane Aparecida Diogo Bottura,isa.avicola@uol.com.br,Isa Avícola Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:23,Leticia,leticia@italytec.com.br,Italytec Imex Indústria e Comércio Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:28,Sra. Teiko,teiko@itochu.com.br,Itochu Brasil S/A,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:34,Celso,itr@itrsa.com.br,Itr South America Com. Imp. e Exp. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:38,Adriana Nunes,adriana.nunes@itt.com,ITT Bombas Goulds do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:42,Diana Paula / Flavia,dpaula@itwchem.com.br,ITW Chemical Products Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:46,Gideon Koren,cassio@itw.com.br,Itw Mapri Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:51,Jill,jill@mtek.com.br,Ivoclar Vivadent Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:11:56,Carolina Tomita,carolina.tomita@jrsla.com.br,J. Rettenmaier Latinoamericana Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:00,Maria Carolina Leão,impex@jshayeb.com.br,J. Shayeb e Cia. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:05,Orlando,orlando@jaguar.ind.br,Jaguar Ind. e Com. de Plásticos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:08,Jair Menardi,mult_trigo@terra.com.br,Jair Menardi & Cia Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:13,Renate,r.blohm@mueller-frick.com,Jakob Muller Brasil máquinas e Comercio Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:16,Heleno Junior,helenojunior@janome.com.br,Janome do Brasil Comércio de Máquinas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:20,Mitiyo Munakata,japi.sa@japi.com.br,Japi S.A. Ind. e Com.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:25,Barbara,barbara.b@jati.com.br,Jati Serviços Comércio e Importação de Aços Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:30,Karine,karine@jgmoriya.com.br,JG Moriya Rep. Imp. Exportadora e Coml. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:36,Nagib Destro,jlcapacitores@tavola.com.br,Jl Capacitores Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:42,Mark Heinke,vendas@jmbzeppelin.com.br,Jmb Zeppelin Equipamentos Industriais Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:46,Fernando Martins,fernando.martins@jbtc.com,John Bean Technologies Máquinas e Equipamentos Industriais Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:51,Rita,jotaeme@jotaeme.com.br,Jotaeme - Fitafer Ind. Metalúrgica Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:12:56,Marilangi Gama,marilangi.gama@kerry.com,Junior Alimentos Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:01,Simone,silca@kabadobrasil.com.br,Kaba do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:06,Nilton,kalipso@uol.com.br,Kalipso Equipamentos Individuais de Proteção Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:10,Vladimir Malahodky,douglas@kanaflex.com.br,Kanaflex S.A. Ind. de Plásticos,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:15,Camila,kasa.comex@kemin.com,Kemin do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:19,Maria Inês Domingues,sharazaki@tyco-valves.com,Keystone do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:24,Rafael Lopes,khamelimportacao@terra.com.br,Khamel Representações Importação e Exportação Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:29,Alex Sandro Ratão Barbara,alex.export@kidy.com.br,Kidy Birigui Calçados Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:35,Giovanna,giovanna@protcap.com.br,Killing Bahia Tintas e Adesivos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:38,Marcus Vinicius Rosabone,export@klin.com.br,Klin Produtos Infantis Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:43,Neil Irarrázabal,marketing@rfsworld.com,Kmp Cabos Especiais e Sistemas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:48,Bruna Miranda,bruna.miranda@komaxgroup.com,Komax Coml. do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:51,Ligia,diretoria@koppert.com.br,Koppert do Brasil Holding Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:13:56,André,comercial@kopron.com,Kopron do Brasil Com. e Ind. de Equipamentos de Logística Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:01,Iris Hidaka,kotaimp@terra.com.br,Kota Imports Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:05,Henrique Lewi,andrea.tognelli@kraton.com,Kraton Polymers do Brasil S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:10,Vagner Faccini,hoesch@ibm.net,Krupp Hoesch Molas Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:15,Rose Morilla,exportacao@kuka.com.br,Kuka Produtos Infantis Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:19,Julio Kawano,info@kurita.com.br,Kurita do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:23,José Martins,comex@yashica.com.,Kyocera - Yashica do Brasil Ind. e Com. Ltda.,"ERRO: {'comex@yashica.com.': (553, b'5.1.3 The recipient address <comex@yashica.com.> is not a valid RFC 5321\n5.1.3 address. For more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ada2fe7eead31-7abf566bdccsm5465381137.4 - gsmtp')}",azevedohitallo@gmail.com
+2026-09-23 20:14:27,Joaquim Gimenes,labate@labate.com.br,Labate Papéis Máquinas e Suprimentos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:32,Sheila Cristina Collino,labonathus@labonathus.com.br,Labonathus Biotecnologia Internacional Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:37,Luciano Sanches,luciano.sanches@biovet.com.br,Laboratório Bio Vet S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:41,Elisa Amaral,labordental@labordental.com.br,Labordental Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:46,Gilmar,laborglas@laborglas.com.br,Laborglas Ind. e Com. de Materiais para Laboratório Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:50,Nilda Maria Carneiro,nilda@synth.com.br,Labsynth Produtos Para Laboratórios Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:14:55,Gerson,gsanches@lagoa.com.br,Lagoa da Serra Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:00,Mara Escotom,gulliver@gulliver.com.br,Lamedid Comercial e Serviços Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:03,Ralf Thibes,langmekra@uol.com.br,Lang Mekra do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:07,Leo Scarpar,leo.scapar@lanxess.com,Lanxess - Indústria de Produtos Químicos e Plásticos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:13,Pedro,comercial@lavorwash.com.br,Lavorwash Brasil Industrial e Comercial Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:17,Raquel,raquel@lbtlasers.com.br,LBT Laser Brasil Technology Com. Imp. e Exp. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:21,Cristina,cristina.marques@leggett.com,Leggett & Platt do Brasil Ltda,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:25,Legris do Brasil Ltda,adm@legris.com.br,Legris do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:29,Cláudio Rômulo,leiner1@tdec.com.br,Leiner Davis Gelatin Brasil Ind. Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:34,Arris,extrainfo@vivax.com.br,Leitz Ferramentas para Madeira Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:39,Angela Garofalo,linhanyl@linhanyl.com.br,Linhanyl S.A. Linhas para Coser,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:43,Reinaldo Costa Júnior,liotecnica@liotecnica.com,Liotécnica Ind. e Com. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:47,Carla Fernandes,reinaldo@canuto.com.br,Livraria Canuto Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:52,Mario Motta / Lillian Dionísia,mmotta@livrariacultura.com.br,Livraria Cultura S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:15:58,Renata Torneli,renata.henriques@biogenidec.com,Losinox Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:16:04,Walter,walter@lsembalagens.com.br,LS Embalagens Com. Serviços e Logística Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:16:08,Andreia,ltm@ltmchicotes.com.br,Ltm Ind. e Com. de Chicotes Elétricos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:16:14,Sergio,lulitex@lulitex.com.br,Lulitex Com. Imp. e Exp. Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:16:19,Marcio,compras@luminartintas.com.br,Luminar Tintas e Vernizes Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:16:24,Luis Gaspar,gaspar@lupo.com.br,Lupo S.A.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:16:28,Edson Correa,edson@luxembourg.com.br,Luxembourg Brasil Comércio de Produtos Químicos Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-09-23 20:16:33,Evandro Moreira,emoreira@lwart.com.br,Lwarcel Celulose e Papel Ltda.,ENVIADO,azevedohitallo@gmail.com

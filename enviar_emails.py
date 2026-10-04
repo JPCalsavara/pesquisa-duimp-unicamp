@@ -243,13 +243,29 @@ def ler_contatos():
             })
     return contatos
 
+def deduplicar_por_email(contatos):
+    """
+    Remove contatos repetidos com o mesmo e-mail (ex.: mesma caixa postal
+    usada por mais de uma razão social), mantendo a primeira ocorrência.
+    Evita que a mesma pessoa receba dois disparos na mesma execução.
+    """
+    vistos = set()
+    unicos = []
+    for c in contatos:
+        email_lower = c["email"].lower()
+        if email_lower in vistos:
+            continue
+        vistos.add(email_lower)
+        unicos.append(c)
+    return unicos
+
 def simular_envios(contatos, nome_remetente="João Calsavara", email_remetente=None, limite_diario=300):
     print("\n" + "="*60)
     print(" 🔍 MODO SIMULAÇÃO (DRY RUN) - NENHUM E-MAIL SERÁ ENVIADO")
     print("="*60)
     
     enviados = carregar_enviados()
-    pendentes = [c for c in contatos if c["email"].lower() not in enviados]
+    pendentes = deduplicar_por_email(c for c in contatos if c["email"].lower() not in enviados)
     envios_24h = contar_envios_24h(email_remetente)
     
     print(f"Remetente: {nome_remetente} ({email_remetente or 'Não configurado'})")
@@ -295,7 +311,7 @@ def enviar_todos(limite=None, auto_confirm=False):
         return
 
     enviados = carregar_enviados()
-    pendentes = [c for c in contatos if c["email"].lower() not in enviados]
+    pendentes = deduplicar_por_email(c for c in contatos if c["email"].lower() not in enviados)
 
     if not pendentes:
         print("[✓] Todos os contatos da lista já constam como enviados em enviados.csv!")
@@ -373,6 +389,11 @@ def enviar_todos(limite=None, auto_confirm=False):
             nome = c["nome"]
             destinatario = c["email"]
             empresa = c["empresa"]
+            destinatario_lower = destinatario.lower()
+
+            if destinatario_lower in enviados:
+                print(f"[{idx}/{total}] Pulando {destinatario}: já recebeu e-mail nesta execução.")
+                continue
 
             print(f"[{idx}/{total}] Enviando e-mail para: {destinatario} ({nome or 'Sem nome'})...", end=" ", flush=True)
 
@@ -388,6 +409,7 @@ def enviar_todos(limite=None, auto_confirm=False):
             try:
                 server.sendmail(remetente_email, [destinatario], msg.as_string())
                 registrar_envio(nome, destinatario, empresa, "ENVIADO", remetente_email)
+                enviados.add(destinatario_lower)
                 print("✓ Enviado com sucesso!")
             except Exception as env_err:
                 err_str = str(env_err)
