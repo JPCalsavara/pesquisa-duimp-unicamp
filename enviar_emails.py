@@ -161,6 +161,10 @@ def contar_envios_24h(email_remetente=None):
             except ValueError:
                 continue
 
+            # Só envios reais contam na cota (ignora PULADO / skips manuais)
+            if status.strip() != "ENVIADO":
+                continue
+
             if dt >= limite_tempo:
                 rem_row = row.get("remetente", "").strip().lower()
                 if email_remetente and rem_row:
