@@ -4,5 +4,6 @@
   "email_remetente": "seu_email@gmail.com",
   "senha": "xxxx xxxx xxxx xxxx",
   "nome_remetente": "Seu Nome Completo",
-  "delay_segundos": 2
+  "delay_min_segundos": 2,
+  "delay_max_segundos": 4
 }

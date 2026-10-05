@@ -38,7 +38,8 @@ Você pode configurar suas credenciais de duas maneiras:
    EMAIL_SENHA=xxxx xxxx xxxx xxxx
    SMTP_SERVER=smtp.gmail.com
    SMTP_PORT=587
-   DELAY_SEGUNDOS=2
+   DELAY_MIN_SEGUNDOS=2
+   DELAY_MAX_SEGUNDOS=4
    ```
 
 #### Opção B: Usando `config.json`
@@ -50,7 +51,8 @@ Se preferir usar JSON, copie [config.example.json](file:///home/jpcalsavara/Docu
   "email_remetente": "seu_email@gmail.com",
   "senha": "xxxx xxxx xxxx xxxx",
   "nome_remetente": "Seu Nome Completo",
-  "delay_segundos": 2
+  "delay_min_segundos": 2,
+  "delay_max_segundos": 4
 }
 ```
 
