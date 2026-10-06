@@ -181,6 +181,12 @@ def contar_envios_24h(email_remetente):
             if dt < limite_tempo:
                 continue
 
+            # Só envios reais contam na cota (ignora PULADO / bounce / erros)
+            if status != "ENVIADO":
+                continue
+
+            # Cota sempre por remetente: registros sem remetente ou de outra
+            # conta do grupo não entram na cota de quem está enviando agora.
             rem_row = (row.get("remetente") or "").strip().lower()
             if rem_row == email_remetente:
                 total_24h += 1
