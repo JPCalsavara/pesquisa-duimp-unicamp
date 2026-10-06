@@ -1,314 +1,314 @@
 data_hora,nome,email,empresa,status,remetente
-2026-09-22 20:34:04,Deise,deise@3corp.com.br,3CORP Technology Distribuidora de Equipamentos S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-22 20:34:14,José Morales,atendimento@azevedooleos.com.br,A Azevedo Ind. e Com. de Óleos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-22 20:34:23,Ângelo Pedro Squassoni,faberexports@linkway.com.br,A. W. Faber Castell S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-22 20:34:33,Marcia,supane@ame.com.br,A.M.E Eletrônica Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-22 20:34:43,Carlos Lira,carloslira@abapapeis.com.br,Aba Distribuidora de Papeis Máquinas e Equipamentos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-22 20:34:53,Ricardo,info@abctecnologias.com.br,ABC Equipamentos e Tecnologias Ambientais Ltda. - EPP,ENVIADO,jpcalsavara@gmail.com
-2026-09-22 20:35:03,Jose Benedito Padilha,abp@abpimport.com.br,ABP Importadora e Comercial Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-22 20:35:12,Rafael,marketing@aceschmersal.com.br,Ace Schmersal Eletroeletrônica Ind.l Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-22 20:35:22,Ligia,ligia.comex@acoespecial.com.br,Acoespecial Coml. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-22 20:35:31,Camila Barros,camila@acpcomponentes.com.br,Acp Comércio Atacadista de Componentes Eletrônicos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:22:51,Rubens Peres Júnior,export@acrilex.com.br,Acrilex Tintas Especiais S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:23:00,Artemio Da Silva Barbosa,belemmaquinas@uol.com.br,Actreg do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:23:10,Cinthia / Karla / Everton / Gustavo,gonzalo.perez@ajax.com.br,Acumuladores Ajax Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:23:19,Edvaldo Zara,hecton@aczinox.com.br,Acz Inox Comercial Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:23:28,Luis,luis@adaime.com.br,Adaime Imp. e Exp. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:23:38,Daniel Mehler,adatex@adatex.com.br,Adatex S.A. Industrial e Comercial,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:23:47,Marcio Schiaveto,addn@addn.com.br,Addn Assistência Técnica Com. e Ind. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:23:56,Vera Hamerski,vera@adelbras.com,Adelbras Ind. e Com. de Adesivos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:24:06,José Roberto Vincinança,adere@adere.com,Adere Produtos Auto Adesivos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:24:16,Humberto Martines Garcia,advc@sti.com.br,Advance Ind. Têxtil,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:24:25,Stella Pavlakis,stella.pavlakis@sonora.com,Advanced Bionics Instrumentos Auditivos do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:24:34,Morgan Watkins,juliana@aerzen.com.br,Aerzen do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:24:44,Ana Paula Ferreira,anapaulaferreira@agrana.com,Agrana Fruit Brasil Ind. Com. Imp. e Exp. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:24:53,Carla Souza,carlasouza@agrichem.com.br,Agrichem do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:25:02,Maria Antonia,mantonia@agrowiser.com.br,Agro Comercial Wiser Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:25:12,Vivian,comercial@swagelok.com.br,Agroceres Nutricão Animal Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:25:22,Ailton,ailton@agroplanta.com.br,Agroplanta Industrias Químicas Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:25:31,José,jose@stahl.com.br,Agrostahl S.A. Ind. e Com.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:25:40,Lidia Oliveira,lidia.oliveira@agrosystem.com.br,"Agrosystem Com., Importação e Exp. Ltda.",ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:25:50,Roberson  / Tadeu,roberson@agrariafert.com.br,Agrária Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:25:59,Marocs Higo,mhigo@aisin-brasil.com.br,Aisin do Brasil Com. e Ind. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:26:08,Claudio Pagani,sac@br.ajinomoto.com,Ajinomoto Biolatina Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:26:18,Regiane,import@alamarr.com.br,Alamar Tecno Cientifica Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:26:27,Tatiane,comercioexterior@alberflex.com.br,Alberflex Ind. de Móveis Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:26:37,Gisele Pavan,alcar@alcar.com.br,Alcar Abrasivos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:26:46,Stassffan Martendal,com_exterior@aldoro.com.br,Aldoro Ind. de Pós e Pigmentos Metálicos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:26:56,Rodrigo Ferreira,rodrigo.ferreira@aleris.com,Aleris Latasa Reciclagem Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:27:05,Michelle,compras@alfaterm.com.br,Alfaterm Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:27:15,José Roberto Codato,import@alicante.com.br,Alicante Comércio Importação e Exportação Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:27:24,Katiuscia Paulon,katiuscia.paulon@alliancels.com,Alliance eo Brasil Máquinas ee Lavanderia Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:27:34,Bruno Giacometti,bgiacometti@alliedbrasil.com.br,Allied S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:27:43,Mori,mmori@alphapex.com.br,Alphapex Comercio e Representações Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:27:52,Camila Palma,camila.palma@alphaprint.com.br,Alphaprint Comercio Imp. Exp. Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:28:02,Solange Souza,solange.souza@alpino.com.br,Alpino Ind. Metalúrgica Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:28:11,Vanessa Batista,vanessa.batista@scorp.com,Alumaq Locação e Com. de Máquinas de Solda Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:28:21,Jean Silva,jean.silva@alvenius.ind.br,Alvenius Equipamentos Tubulares Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:28:30,Sergio Freitas / Marco Bosso,vendas@amphenol-tfc.com.br,Amphenol TFC do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:28:40,Luci Zilig,comercial@centroflora.com.br,Anidro Brasil Extrações Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:28:49,Eli Novais,compras@anion.com.br,Anion Química Industrial Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:28:59,Paulo Barrella,paulo.barrella@anixter.com,Anixter do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:29:09,Silvana,silvana.caires@anritsu.com,Anritsu Eletrônica Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:29:18,Ligia,lgenova@ashland.com,Antalis do Brasil Produtos Para A Ind. Gráfica Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:29:28,Augusto Marcelo Gabriel,anticorrosiva@uol.com.br,Anticorrosiva do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:29:37,Sérgio Epof,epof@apisdelta.com.br,Apis Delta Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:29:47,Robson,robson@apoloinformatica.com.br,Apolo Tecnologia e Informática Comercial Ltda,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:29:56,Diego,joecorrea@apramed.com.br,Apramed - Ind. e Com. de Aparelhos Médicos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:30:06,Herminio De Almeida Filho,herminio@apsen.com.br,Apsen Farmacêutica S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:30:15,Gilberto Murgia,eribeiro@apv.com,Apv South America Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 00:30:25,Leandro,compras@graficaaraguaia.com.br,Araguaia Industria Gráfica e Editora Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 00:30:34,Leia Pacheco,arbolleia@terra.com.br,Arbol Comércio de Papéis Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:10:19,Jose Carlos Brauner,braunerjc@losinox.com.br,Argosy Aparelhos Auditivos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:10:29,Edson da Mata Santos,damata_arim@uol.com.br,Arim Componentes para Fogão Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:10:38,Adriana,adriana.renor@orthofix.com.br,Arinox Comercial Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:10:47,Luiz Gomes,luiz.gomes@armacell.com,Armacell Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:10:56,Marco Antonio,comex@arneg.com.br,Arneg Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:11:06,Rubia,compras@egsa.com.br,Aromat Produtos Químicos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:11:16,Ricardo,importacao@arotec.com.br,Arotec S.A. Ind. e Com.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:11:25,Diana,comex@arpol.com.br,Arpol Tintas Tecnologia Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:11:34,André Correa,andre.correa@arrowbrasil.com.br,Arrow Brasil S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:11:44,Jorge /Betânia,jorge@arthi.com.br,Arthi Comercial Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:11:53,José Ricardo Xavier,asa@asaaluminio.com.br,Asa Alumínio S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:12:03,Maurício Garcia,ascobrbr@ascoval.com.br,Ascoval Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:12:12,Rogerio,rogerio@asperbras.com.br,Asperbras-Nordeste Irrigação Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:12:22,Juliano Oni,doural@doural.com.br,Assad Abdalla Neto & Cia Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:12:31,Creusa,assahi@assahimaquinas.com.br,Assahi Máquinas e Equipamentos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:12:40,Antonio Mauricio,mauricio@afip.com.br,Associacão Fundo de Incentivo A Psicofarmacologia,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:20:35,José Ubaldino Rosa,asbg@asbg.com.br,Associated Spring do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:20:39,Fernando Cruz Gonzalez,exim@astra-sa.com.br,Astra S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:20:42,Luís Francisco Vieira,financ@asvotec.com.br,Asvotec Termoindustrial Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:20:45,Luiz Fernado Martinez Mendes,aumund@aumund.com.br,Aumund Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:20:49,Sandra,sandra@autcomp.com.br,Aut Cia. Indl. e Importadora Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:20:52,Wesley,autimpex@autimpex.com.br,Autimpex Comercial Ltda.- Epp,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:20:55,Robinson Balestero,rbalestero@autocam.com.br,Autocam do Brasil Usinagem Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:20:59,Elisa Akemi M. Hirokawa,eakemi@autometal.com.br,Autometal S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:21:02,Tereza,victor-sucar@milliken.com,Autotex Ind. e Com. Têxtil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:21:06,Criseli Alves Fernandes,claudia@avanco.ind.br,Avanco S.A. Ind. e Com. de Máquinas,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:21:09,Max Musqueira,mmusqueira@avaya.com,Avaya Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:21:13,Pedro,comercial@avkbr.com.br,AVK - Válvulas do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:21:16,Marcelo Del Peloso,saquartz@terra.com.br,Avs Brasil Getoflex Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:21:19,Karin Almeida,karin.almeida@lemitar.com.br,Aços Caporal Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:21:23,Vasco,acosvic@acosvic.com.br,Aços Vic Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:21:26,Sylvio Tuma Salomão,acotecnica@acotecnica.com.br,Açotécnica S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:21:30,Henrique Zillo,biorigin@zilloren.com.br,Açucareira Quata S.A. - Biorigin,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:21:33,Sérgio Laurean,bbcind@bbcind.com.br,B B C Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:21:36,Sandra Felix,sandra.felix@balluff.com.br,Balluff Controles Elétricos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:21:40,Celina Sato,supplier@bandeirantequimica.com.br,Bandeirante Química Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:21:43,Hilton Nunes - Diretor Comercial,sales@bann.com,Bann Química Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:21:46,Pedro Radichi,pedro@baq.com.br,Baq Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:21:50,José Roberto Ramalho de Almeida,jroberto@basequimica.com.br,Basequimica Produtos Químicos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:21:53,Daniel,supply@basilequimica.com.br,Basile Química Industria e Comercio Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:21:57,Edson Aprígio Lopes de Mattos,baumer@baumer.com.br,Baumer S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:00,Derci Comandini,rozeli.bel@bel.com.br,Bel Produtos Alimentícios Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:22:04,Érika Priscila,erikapriscila@belenus.com.br,Belenus do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:07,Mônica,monica@bellis-technology.com.br,Bellis Tecnologia e Automação Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:22:10,Hélio José da Silva,belmetal.sp@belmetal.com.br,Belmetal Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:14,Robervagner Salgado,info@belverbrasil.com.br,Belver Instrumentos Eletrônicos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:17,Andréia Sena,andreia.sena@bericap.com,Bericap do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:20,Vashi Montovani,monark@monark.com.br,Bicicletas Monark S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:24,Juliana Diniz Macedo,juliana.comex@bigfoods.com.br,Big Foods Produtos Alimentícios Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:22:27,Bijouterias Mabel Comercio E Importacao Ltda,fatima@mabelimport.com.br,Bijouterias Mabel Comercio Importação Ltda,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:22:30,Marcos,marcos@biocontrole.com.br,Bio Controle Métodos de Controle de Pragas Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:34,Rubi,rubi@agepress.com,Bio Soja Ind. Químicas e Biológicas Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:22:37,Patricia,patricia_marketing@grandcru.com.br,Bioassist Comercial Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:41,Dr. Rudi Konrad,rkonrad@uniaoquimica.com.br,Biolab Sanus Farmacêutica Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:44,Roberto,bioline@bioline.com.br,Bioline Comercial Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:48,Adriana Affonso,compras@biomedical.ind.br,Biomedical Equip. e Produtos Médico-Cirúrgicos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:51,Mariana Moreira / Valter Lopes,mariana.moreira@biomin.net,Biomin do Brasil Nutrição Animal Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:54,Mauro G. Gomes,bitzer@bitzer.com.br,Bitzer Compressores Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:22:58,Rosemeire Andrade,info@blackbox.com.br,Black Box do Brasil Ind. Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:23:01,Paulo Cezar Rezende,blanver@blanver.com.br,Blanver Farmoquímica Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:23:05,Paulo Casar de Lima,pclima@schincariol.com.br,Blum Albras Ind. e Com. de Ferragens Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:23:09,Delvia E.Batista,edwards@boc.com.br,Boc Edwards Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:23:12,Claudia Schillerwein,info@btwbr.com.br,Boehler Thyssen Técnica de Soldagem Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:23:16,Paulo Strube,messtek@bohnen.com.br,Bohnen Messtek - Importação e Comércio de Equipamentos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:23:19,Ricardo Veloso,bollhoff@bollhoff.com.br,Bollhoff Service Center Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:23:23,Herze Dulaurans,herze@bonduelle.com.br,Bonduelle do Brasil Produtos Alimentícios Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:23:26,Patricia Braile,silvana@braile.com.br,Braile Biomédica Ind. Com. Representações S.A.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:23:29,Sofia Costa,brampac@brampac.com.br,Brampac S.A.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:23:33,Manuel Marques Mendes,comercial@branyl.com.br,Branyl Com. e Ind. Têxtil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:23:36,Celso Oliveira,celso.oliveira@alpla.com,Brasalpla Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:23:40,America Oliveira,lrigo@brascabos.com.br,Brascabos Componentes Elétricos e Eletrônicos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:23:44,Abner Santana,simone.mantovani@brascola.com.br,Brascola Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:23:47,Debora,debora@brasflower.com.br,Brasflower Imp. e Exp. de Flores e Frutas Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:23:51,Cida,compras@brasforma.com.br,Brasforma Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:23:54,Raimundo Silveira,brasilbor@brasilbor.com.br,Brasilbor Comércio e Representações Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:23:58,Nilo Cotini Filho,amelia@brasilgrafica.com.br,Brasilgrafica S.A. - Indústria e Comércio,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:01,Thiago,comex@fromm.com.br,Brasilpack Sistemas de Embalagens Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:24:05,Wanderlei Ribeiro /Wagner Baviera,wanderlei.ribeiro@brasilquimica.com.br,Brasilquimica Indústria e Comércio Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:08,Caio Salem,brasinoxaco@uol.com.br,Brasinox Aço Inoxidavel Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:24:13,Othon Grangeia,othon@colormix.com.br,Brasmix Comercio e Importação Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:24:17,Ary Ferderico Torres Neto,brassinter@brassinter.com.br,Brassinter S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:20,Takefumi Wai,brastrela@brastrela.com.br,Brastrela Importação e Exportação Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:24:23,Aryan,aryan@bravis.com.br,Bravis Coml. Exportadora Ltda. - EPP,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:27,Valdir,compras@pateko.com.br,Brevini Latino Americana Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:24:30,Pedro Henrique A. Pucci,bband@brinquedosbandeirante.com.br,Brinquedos Bandeirante S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:24:33,Carlos Coimbra,carlos@brnbrasil.com.br,BRN Brasil Industria e Comercio Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:37,Lígia Okita,brozemetal@bronzemetal.com.br,Bronze Metal Indústria e Comércio Ltda,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:40,Cristiane,compras@brotolegal.com.br,Broto Legal Alimentos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:44,Furlan Jr.,bia.importacao@bruck.com.br,Bruck Imp. Exp. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:47,Eduardo Antonio de Souza,brudden@brudden.com.br,Brudden Equipamentos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:24:50,Edson Ferreira De Souza Jr,btech@btech.com.br,Btech Tecnologias Agropecuarias e Comércio Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:54,Mary Lona,brasil@buckman.com.br,Buckman Laboratórios Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:24:57,Ana Rosa,valvulas@bugattibrasil.com.br,Bugatti Brasil Válvulas Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:25:01,Florisvaldo de Melo,marli.martins@buhlergroup.com,Buhler S.A.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:25:04,Renato Cinti,rcinti@buntech.com.br,Bun-Tech Tecnologia em Insumos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:25:08,Antônio Carlos Ottani,info@burigotto.com.br,Burigotto S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:25:11,Gilda,burkert@burkert.com.br,Burkert Contromatic Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:25:14,Carolina Pereira Lima Gropp,recepcao@casimp.com.br,C.A.S. Importação e Exportação Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:18,Keyla,cabletech@cabletechbrasil.com.br,Cabletech Ind. e Com. de Condutores Elétricos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:25:22,Nicolas Andreas,n.andreas@lappbrasil.com.br,Cabos Lapp Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:25:25,Marcio Possi,cadium@cadium.com.br,Cadium Comércio Importação e Exportação Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:28,Gisela Cazarini,gisela@cainco.com.br,Cainco Equipamentos para Panificação Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:32,Vilma,vilma@caldex.com.br,Caldex Conexões e Equipamentos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:35,Ana Claudia Figueiredo,exportacao@ferracini.com.br,Calçados Ferracini Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:39,João Dalmina,pampili@pampili.com.br,Calçados Kolli's Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:42,Carlos,coordvendas@camargociaembalagens.com.br,Camargo Companhia de Embalagens Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:25:45,Renata Fioravante,renata.fioravante@campari.com,Campari Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:49,Rebeca,rebeca@canopusquimica.com.br,Canopus Ind. e Com. de Produtos Químicos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:52,Wernes Babbe,canpac@canpac.com.br,Canpac Comércio e Representações Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:56,Roberto,capricornio@capricornio.com.br,Capricórnio S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:25:59,Dany,dany@rojemac.com.br,Carbinox Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:26:02,Rogério,logistica@uniparcarbocloro.com.br,Carbocloro S.A. Indústrias Químicas,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:26:06,Beth,beth@carbomec.com.br,Carbomec Ind. de Produtos Eletromecânicos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:26:09,Tânia Menardo,importexport@carbonolorena.com.br,Carbono Lorena S.A.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:26:13,Persio,comex@carci.com.br,Carci Ind. Com. Aparelhos Cirúrgicos e Ortopédicos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:26:16,José Inácio Maia,inacio.maia@cardinal.com,Cardinal Health Brasil 402 Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:26:20,Aline Ando de Lima,carino@carino.com.br,Carino Ingredientes Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:26:23,Stela Pavlakis,stela.pavlakis@cas.com.br,CAS - Produtos Médicos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:26:26,Mario Coradi,flavio.siqueira@contini.com.br,Casa Di Conti Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:26:30,Gérson Domingos Zílio,export@casp.com.br,Casp S.A. Ind. e Com.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:26:33,Valdir,contabilidade@catalisebrasil.com,Catalise Ind. e Com. de Metais Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:26:36,Daniele Goncalves,importacao@cavemac.com.br,Cavemac Indl e Coml de Maqs Imp e Exp Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:26:40,Vanessa Flores,vanessa_flores@ccstec.com.br,CCS Tecnologia e Serviços Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:26:44,Pollyanna Molica,pollyanna.molica@cebibrasil.com.br,Cebi Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:26:47,Gilberto Hoshi,celmar@celmarnet.com.br,Celmar Comercial e Importadora Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:26:50,João Paulo,joao.paulo@celocorteembalagens.com.br,Celocorte Embalagens Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:26:54,Olívia,olivia@cennabras.com.br,Cennabras Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:26:57,Marcos Roberto Gomes,centauro@centaurobrasil.com.br,Centauro Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:01,Marcelo,centerval@centerval.com.br,Centerval Indl. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:27:04,Gilcy,gilcy@brasilcraft.com.br,Centro Auditivo Oto Sonic Comércio Exp.Importação Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:08,Zago,datiquim@datiquim.com.br,Centro Sul Repres. Com. Imp. Exp.Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:27:12,Ana Paula,vendas@tubexpress.com.br,Cerantola do Brasil Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:15,Bruno,oxiquimica@oxiquimica.com.br,Cerealista Rosalito Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:27:18,Carlos Aguiar,dalca@correionet.com.br,Cervejarias Kaiser Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:22,Jefferson,jefferson@cerviflan.com.br,Cerviflan Indl. e Coml. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:27:25,Daielly Franzine,export@ceralpisos.com.br,Cerâmica Ramos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:29,João B. Martins,cestari@cestari.com.br,Cestari Industrial e Comercial S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:27:32,Paulo Mendes / Victor Mendes,paulo.mendes@cava.com.br,Ceva Saúde Animal Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:36,Mauro Cavalcante,eduardo.breda@ipaper.com,Champion Papel Celulose Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:27:39,Waldimir Carlos Gandolfo,cury@aleph.com.br,Chapéus Vicente Cury S.A.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:42,Lídia Chang,dpacifico@chemtrend.com.br,Chem-Trend Ind. Inc. e Cia.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:46,Mario Bellotto,chemicaltech@chemicaltech.com.br,Chemicaltech Imp. Exp. e Com. de Prods Farmacêuticos Ltda,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:49,Jose Luis Luciano Bueno,chemicon@chemicon.com.br,Chemicon S.A. - Indústrias Químicas,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:53,Alessandra Climaco Guidi Ou Maildo,chemyunion@chemyunion.com.br,Chemyunion Química Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:27:56,Lais dos Santos,financeiro@chiaperini.com.br,Chiaperini Indl. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:27:59,Sallon,alexandreacris@vivax.com.br,Cia. Hering,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:28:03,Juliana Saraiva,juliana.saraiva@prada.com.br,Cia. Metalúrgica Prada,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:28:06,Cristina Chao,crischao@cikaeletronica.com,Cika Eletrônica do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:10,Hary Lugen Kahn,dir.comercial@cinpal.com.br,Cinpal Cia. Industrial de Peças para Automóveis,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:28:13,William Nicolau,corporativo.comercial@cipatex.com.br,Cipatex - Sintéticos Vinílicos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:17,José Waldir Beneti,corporativo.comercial@cipatex.com.br,Cipatex Impregnadora de Papéis e Tecidos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:20,André Carreira,alcandre@citroplast.com.br,Citroplast Ind.e Comércio de Papéis e Plásticos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:24,Aldo da Silva Neves,aldoneves@clark.com.br,Clark Empilhadeiras do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:28:27,Camila,camilam@cobrametais.com.br,Cobra Metais Decorativos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:31,Paula F. Finotti,paula@codap.com.br,Codap Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:35,Jorge,importacao@othil.com.br,Cofix - Importação e Exportação de Frutas Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:38,João Carlos Fernandes Lopes,marceloc@netpoint.com.br,Colauto Adesivos e Massas Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:28:42,Leonardo,leonardo.prosperi@dsm.com,Colombo Industria e Comercio Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:45,Fabiano Da Silva,acampos@colorcon.com,Colorcon do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:49,Rodrigo Lopes,colornet@colornet.com.br,Colornet Comércio Exterior Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:28:52,Carlos,nortesul@nortesul.net,Com. de Equipamentos Norte Sul Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:56,Vanderlei Luiz Melchiori,comalarroz@comal.com.br,Comal-Arroz Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:28:59,Janaina Alves de Morais,comep@terra.com.br,Comep Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:29:03,Janisse de Oliveira,destrosp@destromacro.com.br,Comercial Destro Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:29:07,Adriano Quadros,alholouro@uol.com.br,Comercial e Importadora Louro Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:10,José Forte,cf@comercialforte.com.br,Comercial Forte Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:14,Reinaldo,vendas@comercialinterlink.com,Comercial Inter-Link Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:17,Walter,expo@jahu.com.br,Comercial Jahu Borrachas e Autopeças Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:21,Valter Kenji Sugano,sveloso@commercialvps.com.br,Comercial Vps Com. de Equip. Industriais Ltda,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:29:24,Luciana  /  Alan,zimex@zimex.com.br,Comercial Zimex Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:29:28,Augusto,augusto@comilcoversand.com.br,Comil Cover Sand Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:31,Veridiana Estevo,vendas@ficael.com.br,Coml. Ficael Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:35,Bárbara,barbara@lanmax.com.br,Coml. Starte Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:38,Gisela Spinelli Vaz Lobo,comex@guaratingueta.com.br,Companhia Fiação e Tecidos Guaratinguetá,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:42,Daniela,daniela@compextec.com.br,Compex Tecnologia Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:45,Mayumi Maeda,mmaeda@cce.com.br,Componel Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:29:48,Marli Cabral,maily@componet.com.br,Componet Eletro Eletrônica e Redes Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:29:52,Luis Fernando Valente,lvalente@comprint.com.br,Comprint Indústria e Comércio de Materiais Gráficos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:29:55,Roberto Cury,bordadoscury@terra.com.br,Comércio de Bordados Rendas e Tecidos Cury Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:29:59,Cristiano Machado,prosintese@prosintese.com.br,Comércio e Imp. de Prod. Médicos Hospit. Prosintese Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:30:02,Valeria,valeria@condutti.com.br,Condutti Ind. e Com. de Condutores Elétricos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:30:05,Fátima,vendas@conexel.com.br,Conexel Conexões Elétricas Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:30:09,Fernanda Bagnara,fbagnara@kacyumara.com.br,Confecções Kacyumara Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:30:13,Flavia,consistec@consistec.com.br,Consistec Controles e Sistemas de Automação Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:30:16,Aurélio F. Gonzales Macias,constanta@constanta.com.br,Constanta Industrial Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:30:20,Ricardo Rodrigues,rrodrigues@camargocorrea.com.br,Construções e Com. Camargo Corrêa S.A.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:30:23,Nilton,marketing@converplast.com.br,Converplast Embalagens Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:30:27,Helena Akiko,helenakiko@amcham.com.br,Cooper Power Systems do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:30:30,Jaqueline Santos,jsantos@coorstek.com,Coorstek do Brasil Materiais Avançados Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:30:34,Estella Pavlakis,contato@argosy.com.br,Copo-Fehrer Ind. de Poliuretano do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:30:37,Sheila,sheila@coremal.com.br,Coremal Com. e Representações Maia Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:30:41,Osvaldo Valiengo,zaliengood@coring.com,Corning Brasil Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:30:44,Luis Carlos Perez,mercom@correiasmercurio.com.br,Correias Mercúrio S.A. Ind. e Com.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:30:48,Alaide dos Santos Cunha,corticei@fox.com.br,Corticeira Paulista Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:30:51,Vanda,vanda@cosmotec.com.br,Cosmotec Especialidades Químicas Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:30:55,Alexandre Silva Costa,costaindexp@terra.com.br,Costa Comércio Importação e Exportação de Produtos Alimenticíos L,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:30:59,Gabriela,gabriela@cotiplas.com.br,Cotiplas Ind. e Com. de Artefatos Plásticos Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:31:03,José Rubens Klaus,jrklaus@covolan.com.br,Covolan Ind. Têxtil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:31:06,Rejane Santos,rejne.santos@cpicfiber.com,Cpic Brasil Fibras de Vidro Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:31:09,Bruna Pontes,bruna.pontes@br.nestle.com,CPW Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:31:12,Alexandre Salomão Cohen,alexandre@cralplast.com.br,Cral Artigos para Laboratório Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:31:16,Rosa,rosa@cromatek.com.br,Cromax Eletrônica Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:31:19,Luciane Crispim,luciane.crispim@cromex.com.br,Cromex S.A,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:31:22,Rita,exportacao@cromus.com.br,Cromus Embalagens Ind e Com Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:31:26,Ronald Kann,irmamendes@uol.com.br,Cronimet Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:31:30,Mariana Viveiros,mariana.viveiros@daiichisankyo.com.br,Cropchem Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:31:33,Reginaldo,reginaldo.baroni@br.endress.com,Cross Link Consultoria e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:31:36,Lázaro Medeiros,rlopes@crowncork.com.br,Crown Cork Embalagens S.A.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:31:40,Antonio Silvio Hugo,crown@crown.com.br,Crown Roll Leaf do Brasil Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:31:43,Amuna,amuna@orioncores.com.br,Crw Corantes Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:31:47,Fernando Rodrigues Carballal,ctouro@curtumetouro.com.br,Curtume Touro Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:31:50,Nilton Tumonis,vendas@cyklop.com.br,Cyklop do Brasil Embalagens S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:31:53,Solange / Jaqueline,solange@dabasons.com.br,Dabasons Imp. Exp. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:31:57,Dorival Ferrari,dacarto@dacarto.com.br,Dacarto S.A. Ind. de Plásticos,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:32:00,Jose Alves Ferreira,Jose.AlvesFerreira@damovo.com,Damovo do Brasil S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:32:04,Sonia Santos,soniasantos@biosoja.com.br,Danny Com. Imp. e Exp. Ltda.,BOUNCE / EMAIL INEXISTENTE,jpcalsavara@gmail.com
-2026-09-23 10:39:54,Andre,cerantola@frisokar.com.br,Daten Tecnologia Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:39:58,Carlos Alberto Grandeza,cgrandeza@datiquim.com.br,Datiquim Produtos Químicos Ltda,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:01,Eliana,eliana@dayhome.com.br,Dayhome Coml. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:05,Perácio Cardoso,dcirighetto@uol.com.br,Dci Dinamic Cassette International do Brasil Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:09,Rogério de Marchi,rogerio@demarchi.com.br,De Marchi Ind. e Com. de Frutas Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:12,Valdir Siedschlag,decar@decar.com.br,Decar Autopeças Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:16,Marly Inson,deg@deg.com.br,Deg Importação de Produtos Químicos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:20,Alexandre Kumai,alexandre.kumai@delga.com.br,Delga Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:23,Henrique,henrique.contabil@ymail.com,Dellafrutta Comércio Atacadista de Frutas Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:27,Mariza C. Souza,mariza@delquimica.com.br,DelQuímica Comercial Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:30,Marcelo Paludetto,democrata@democrata.com.br,Democrata Calçados e Artefatos de Couro Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:34,Maria Celia Carneiro,exportacao@morelli.com.br,Dental Morelli Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:37,Roberto Franco,roberto.franco@denverimper.com.br,Denver Impermeabilizantes Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:41,Erico Credidio Turco,desfar@terra.com.br,Des-Far Laboratórios Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:44,Raquel Karpfenstein,raquel@descarpack.com.br,Descarpack Descartáveis do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:48,Otavio A. Gonçalves,otavio@devir.com.br,Devir Livraria Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:52,Glaudio,dimartino@dimartino.com.br,Di Martino Indústrias Metalúrgicas Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:56,Andrea Guerreiro,andrea.cristina.guerreiro@carrefour.com,Dia Brasil Sociedade Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:40:59,André Luís Guarniere,vendas@diadur.com.br,Diadur Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:03,Laura Dobelli,laura@dianapaolucci.com.br,Diana Paolucci S.A. Ind. e Com.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:06,Flavia Barbalho,flavia.barbalho@diasorin.com.br,Diasorin Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:10,Claudio Macedo,claudio.macedo@dimep.com.br,Dimas de Melo Pimenta S.A. Ind. de Relógios,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:13,Cássio Omura,cnc@dimensional.com.br,Dimensional Equipamentos Elétricos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:17,Fabio Santos,fabio.santos@wheatonbrasil.com.br,Dinaco Importação Com. S/A,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:21,Luiz Eugenio Pedro De Freitas,dinagro@dinagro.com.br,Dinagro Agro Pecuaria Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:24,Marcelo Molterer,info@dinatecnica.com.br,Dinatécnica Ind. e Com. Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:28,Fernando Garcia,dispafilm@dispafilm.com.br,Dispafilm do Brasil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:31,Marco A P Saba,reliance.comercial@terra.com.br,Distribuidora de Frutas Céu Azul Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:35,Mayara Santos,mayara.santos@sealedair.com,Diversey Brasil Industria Química Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:39,Daniela Salfatis,dni@dni.com.br,DNI Dani Condutores Elétricos Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:43,Paulo Henrique Corradi Mazzer,paulo@doptex.com.br,Doptex Ind. e Com. Têxtil Ltda.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:46,Carlos Assis,assis@dori.com.br,Dori Alimentos S/A,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:41:50,José Carlos Viana,correio@dormer.com.br,Dormer Tools S.A.,ENVIADO,jpcalsavara@gmail.com
-2026-09-23 10:42:02,Silvana Santana,silvana@doutex.com.br,Dou Tex S.A. Ind. Têxtil,ENVIADO,jpcalsavara@gmail.com
+2026-09-22 20:34:04,Deise,deise@3corp.com.br,3CORP Technology Distribuidora de Equipamentos S.A.,ENVIADO,
+2026-09-22 20:34:14,José Morales,atendimento@azevedooleos.com.br,A Azevedo Ind. e Com. de Óleos Ltda.,ENVIADO,
+2026-09-22 20:34:23,Ângelo Pedro Squassoni,faberexports@linkway.com.br,A. W. Faber Castell S.A.,ENVIADO,
+2026-09-22 20:34:33,Marcia,supane@ame.com.br,A.M.E Eletrônica Ltda.,ENVIADO,
+2026-09-22 20:34:43,Carlos Lira,carloslira@abapapeis.com.br,Aba Distribuidora de Papeis Máquinas e Equipamentos Ltda.,ENVIADO,
+2026-09-22 20:34:53,Ricardo,info@abctecnologias.com.br,ABC Equipamentos e Tecnologias Ambientais Ltda. - EPP,ENVIADO,
+2026-09-22 20:35:03,Jose Benedito Padilha,abp@abpimport.com.br,ABP Importadora e Comercial Ltda,ENVIADO,
+2026-09-22 20:35:12,Rafael,marketing@aceschmersal.com.br,Ace Schmersal Eletroeletrônica Ind.l Ltda.,ENVIADO,
+2026-09-22 20:35:22,Ligia,ligia.comex@acoespecial.com.br,Acoespecial Coml. Ltda.,ENVIADO,
+2026-09-22 20:35:31,Camila Barros,camila@acpcomponentes.com.br,Acp Comércio Atacadista de Componentes Eletrônicos Ltda.,ENVIADO,
+2026-09-23 00:22:51,Rubens Peres Júnior,export@acrilex.com.br,Acrilex Tintas Especiais S.A.,ENVIADO,
+2026-09-23 00:23:00,Artemio Da Silva Barbosa,belemmaquinas@uol.com.br,Actreg do Brasil Ltda.,ENVIADO,
+2026-09-23 00:23:10,Cinthia / Karla / Everton / Gustavo,gonzalo.perez@ajax.com.br,Acumuladores Ajax Ltda.,ENVIADO,
+2026-09-23 00:23:19,Edvaldo Zara,hecton@aczinox.com.br,Acz Inox Comercial Ltda,ENVIADO,
+2026-09-23 00:23:28,Luis,luis@adaime.com.br,Adaime Imp. e Exp. Ltda.,ENVIADO,
+2026-09-23 00:23:38,Daniel Mehler,adatex@adatex.com.br,Adatex S.A. Industrial e Comercial,ENVIADO,
+2026-09-23 00:23:47,Marcio Schiaveto,addn@addn.com.br,Addn Assistência Técnica Com. e Ind. Ltda.,ENVIADO,
+2026-09-23 00:23:56,Vera Hamerski,vera@adelbras.com,Adelbras Ind. e Com. de Adesivos Ltda.,ENVIADO,
+2026-09-23 00:24:06,José Roberto Vincinança,adere@adere.com,Adere Produtos Auto Adesivos Ltda.,ENVIADO,
+2026-09-23 00:24:16,Humberto Martines Garcia,advc@sti.com.br,Advance Ind. Têxtil,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:24:25,Stella Pavlakis,stella.pavlakis@sonora.com,Advanced Bionics Instrumentos Auditivos do Brasil Ltda.,ENVIADO,
+2026-09-23 00:24:34,Morgan Watkins,juliana@aerzen.com.br,Aerzen do Brasil Ltda.,ENVIADO,
+2026-09-23 00:24:44,Ana Paula Ferreira,anapaulaferreira@agrana.com,Agrana Fruit Brasil Ind. Com. Imp. e Exp. Ltda.,ENVIADO,
+2026-09-23 00:24:53,Carla Souza,carlasouza@agrichem.com.br,Agrichem do Brasil Ltda.,ENVIADO,
+2026-09-23 00:25:02,Maria Antonia,mantonia@agrowiser.com.br,Agro Comercial Wiser Ltda.,ENVIADO,
+2026-09-23 00:25:12,Vivian,comercial@swagelok.com.br,Agroceres Nutricão Animal Ltda.,ENVIADO,
+2026-09-23 00:25:22,Ailton,ailton@agroplanta.com.br,Agroplanta Industrias Químicas Ltda.,ENVIADO,
+2026-09-23 00:25:31,José,jose@stahl.com.br,Agrostahl S.A. Ind. e Com.,ENVIADO,
+2026-09-23 00:25:40,Lidia Oliveira,lidia.oliveira@agrosystem.com.br,"Agrosystem Com., Importação e Exp. Ltda.",ENVIADO,
+2026-09-23 00:25:50,Roberson  / Tadeu,roberson@agrariafert.com.br,Agrária Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 00:25:59,Marocs Higo,mhigo@aisin-brasil.com.br,Aisin do Brasil Com. e Ind. Ltda.,ENVIADO,
+2026-09-23 00:26:08,Claudio Pagani,sac@br.ajinomoto.com,Ajinomoto Biolatina Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 00:26:18,Regiane,import@alamarr.com.br,Alamar Tecno Cientifica Ltda.,ENVIADO,
+2026-09-23 00:26:27,Tatiane,comercioexterior@alberflex.com.br,Alberflex Ind. de Móveis Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:26:37,Gisele Pavan,alcar@alcar.com.br,Alcar Abrasivos Ltda.,ENVIADO,
+2026-09-23 00:26:46,Stassffan Martendal,com_exterior@aldoro.com.br,Aldoro Ind. de Pós e Pigmentos Metálicos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:26:56,Rodrigo Ferreira,rodrigo.ferreira@aleris.com,Aleris Latasa Reciclagem Ltda.,ENVIADO,
+2026-09-23 00:27:05,Michelle,compras@alfaterm.com.br,Alfaterm Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 00:27:15,José Roberto Codato,import@alicante.com.br,Alicante Comércio Importação e Exportação Ltda.,ENVIADO,
+2026-09-23 00:27:24,Katiuscia Paulon,katiuscia.paulon@alliancels.com,Alliance eo Brasil Máquinas ee Lavanderia Ltda.,ENVIADO,
+2026-09-23 00:27:34,Bruno Giacometti,bgiacometti@alliedbrasil.com.br,Allied S.A.,ENVIADO,
+2026-09-23 00:27:43,Mori,mmori@alphapex.com.br,Alphapex Comercio e Representações Ltda.,ENVIADO,
+2026-09-23 00:27:52,Camila Palma,camila.palma@alphaprint.com.br,Alphaprint Comercio Imp. Exp. Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:28:02,Solange Souza,solange.souza@alpino.com.br,Alpino Ind. Metalúrgica Ltda.,ENVIADO,
+2026-09-23 00:28:11,Vanessa Batista,vanessa.batista@scorp.com,Alumaq Locação e Com. de Máquinas de Solda Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:28:21,Jean Silva,jean.silva@alvenius.ind.br,Alvenius Equipamentos Tubulares Ltda.,ENVIADO,
+2026-09-23 00:28:30,Sergio Freitas / Marco Bosso,vendas@amphenol-tfc.com.br,Amphenol TFC do Brasil Ltda.,ENVIADO,
+2026-09-23 00:28:40,Luci Zilig,comercial@centroflora.com.br,Anidro Brasil Extrações Ltda.,ENVIADO,
+2026-09-23 00:28:49,Eli Novais,compras@anion.com.br,Anion Química Industrial Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:28:59,Paulo Barrella,paulo.barrella@anixter.com,Anixter do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:29:09,Silvana,silvana.caires@anritsu.com,Anritsu Eletrônica Ltda.,ENVIADO,
+2026-09-23 00:29:18,Ligia,lgenova@ashland.com,Antalis do Brasil Produtos Para A Ind. Gráfica Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:29:28,Augusto Marcelo Gabriel,anticorrosiva@uol.com.br,Anticorrosiva do Brasil Ltda.,ENVIADO,
+2026-09-23 00:29:37,Sérgio Epof,epof@apisdelta.com.br,Apis Delta Ltda.,ENVIADO,
+2026-09-23 00:29:47,Robson,robson@apoloinformatica.com.br,Apolo Tecnologia e Informática Comercial Ltda,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:29:56,Diego,joecorrea@apramed.com.br,Apramed - Ind. e Com. de Aparelhos Médicos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:30:06,Herminio De Almeida Filho,herminio@apsen.com.br,Apsen Farmacêutica S.A.,ENVIADO,
+2026-09-23 00:30:15,Gilberto Murgia,eribeiro@apv.com,Apv South America Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 00:30:25,Leandro,compras@graficaaraguaia.com.br,Araguaia Industria Gráfica e Editora Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 00:30:34,Leia Pacheco,arbolleia@terra.com.br,Arbol Comércio de Papéis Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:10:19,Jose Carlos Brauner,braunerjc@losinox.com.br,Argosy Aparelhos Auditivos Ltda.,ENVIADO,
+2026-09-23 10:10:29,Edson da Mata Santos,damata_arim@uol.com.br,Arim Componentes para Fogão Ltda.,ENVIADO,
+2026-09-23 10:10:38,Adriana,adriana.renor@orthofix.com.br,Arinox Comercial Ltda.,ENVIADO,
+2026-09-23 10:10:47,Luiz Gomes,luiz.gomes@armacell.com,Armacell Brasil Ltda.,ENVIADO,
+2026-09-23 10:10:56,Marco Antonio,comex@arneg.com.br,Arneg Brasil Ltda.,ENVIADO,
+2026-09-23 10:11:06,Rubia,compras@egsa.com.br,Aromat Produtos Químicos Ltda.,ENVIADO,
+2026-09-23 10:11:16,Ricardo,importacao@arotec.com.br,Arotec S.A. Ind. e Com.,ENVIADO,
+2026-09-23 10:11:25,Diana,comex@arpol.com.br,Arpol Tintas Tecnologia Ltda.,ENVIADO,
+2026-09-23 10:11:34,André Correa,andre.correa@arrowbrasil.com.br,Arrow Brasil S.A.,ENVIADO,
+2026-09-23 10:11:44,Jorge /Betânia,jorge@arthi.com.br,Arthi Comercial Ltda.,ENVIADO,
+2026-09-23 10:11:53,José Ricardo Xavier,asa@asaaluminio.com.br,Asa Alumínio S.A.,ENVIADO,
+2026-09-23 10:12:03,Maurício Garcia,ascobrbr@ascoval.com.br,Ascoval Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:12:12,Rogerio,rogerio@asperbras.com.br,Asperbras-Nordeste Irrigação Ltda.,ENVIADO,
+2026-09-23 10:12:22,Juliano Oni,doural@doural.com.br,Assad Abdalla Neto & Cia Ltda.,ENVIADO,
+2026-09-23 10:12:31,Creusa,assahi@assahimaquinas.com.br,Assahi Máquinas e Equipamentos Ltda.,ENVIADO,
+2026-09-23 10:12:40,Antonio Mauricio,mauricio@afip.com.br,Associacão Fundo de Incentivo A Psicofarmacologia,ENVIADO,
+2026-09-23 10:20:35,José Ubaldino Rosa,asbg@asbg.com.br,Associated Spring do Brasil Ltda.,ENVIADO,
+2026-09-23 10:20:39,Fernando Cruz Gonzalez,exim@astra-sa.com.br,Astra S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:20:42,Luís Francisco Vieira,financ@asvotec.com.br,Asvotec Termoindustrial Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:20:45,Luiz Fernado Martinez Mendes,aumund@aumund.com.br,Aumund Ltda.,ENVIADO,
+2026-09-23 10:20:49,Sandra,sandra@autcomp.com.br,Aut Cia. Indl. e Importadora Ltda.,ENVIADO,
+2026-09-23 10:20:52,Wesley,autimpex@autimpex.com.br,Autimpex Comercial Ltda.- Epp,ENVIADO,
+2026-09-23 10:20:55,Robinson Balestero,rbalestero@autocam.com.br,Autocam do Brasil Usinagem Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:20:59,Elisa Akemi M. Hirokawa,eakemi@autometal.com.br,Autometal S.A.,ENVIADO,
+2026-09-23 10:21:02,Tereza,victor-sucar@milliken.com,Autotex Ind. e Com. Têxtil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:21:06,Criseli Alves Fernandes,claudia@avanco.ind.br,Avanco S.A. Ind. e Com. de Máquinas,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:21:09,Max Musqueira,mmusqueira@avaya.com,Avaya Brasil Ltda.,ENVIADO,
+2026-09-23 10:21:13,Pedro,comercial@avkbr.com.br,AVK - Válvulas do Brasil Ltda.,ENVIADO,
+2026-09-23 10:21:16,Marcelo Del Peloso,saquartz@terra.com.br,Avs Brasil Getoflex Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:21:19,Karin Almeida,karin.almeida@lemitar.com.br,Aços Caporal Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:21:23,Vasco,acosvic@acosvic.com.br,Aços Vic Ltda.,ENVIADO,
+2026-09-23 10:21:26,Sylvio Tuma Salomão,acotecnica@acotecnica.com.br,Açotécnica S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:21:30,Henrique Zillo,biorigin@zilloren.com.br,Açucareira Quata S.A. - Biorigin,ENVIADO,
+2026-09-23 10:21:33,Sérgio Laurean,bbcind@bbcind.com.br,B B C Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:21:36,Sandra Felix,sandra.felix@balluff.com.br,Balluff Controles Elétricos Ltda.,ENVIADO,
+2026-09-23 10:21:40,Celina Sato,supplier@bandeirantequimica.com.br,Bandeirante Química Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:21:43,Hilton Nunes - Diretor Comercial,sales@bann.com,Bann Química Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:21:46,Pedro Radichi,pedro@baq.com.br,Baq Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:21:50,José Roberto Ramalho de Almeida,jroberto@basequimica.com.br,Basequimica Produtos Químicos Ltda.,ENVIADO,
+2026-09-23 10:21:53,Daniel,supply@basilequimica.com.br,Basile Química Industria e Comercio Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:21:57,Edson Aprígio Lopes de Mattos,baumer@baumer.com.br,Baumer S.A.,ENVIADO,
+2026-09-23 10:22:00,Derci Comandini,rozeli.bel@bel.com.br,Bel Produtos Alimentícios Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:22:04,Érika Priscila,erikapriscila@belenus.com.br,Belenus do Brasil Ltda.,ENVIADO,
+2026-09-23 10:22:07,Mônica,monica@bellis-technology.com.br,Bellis Tecnologia e Automação Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:22:10,Hélio José da Silva,belmetal.sp@belmetal.com.br,Belmetal Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:22:14,Robervagner Salgado,info@belverbrasil.com.br,Belver Instrumentos Eletrônicos Ltda.,ENVIADO,
+2026-09-23 10:22:17,Andréia Sena,andreia.sena@bericap.com,Bericap do Brasil Ltda.,ENVIADO,
+2026-09-23 10:22:20,Vashi Montovani,monark@monark.com.br,Bicicletas Monark S.A.,ENVIADO,
+2026-09-23 10:22:24,Juliana Diniz Macedo,juliana.comex@bigfoods.com.br,Big Foods Produtos Alimentícios Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:22:27,Bijouterias Mabel Comercio E Importacao Ltda,fatima@mabelimport.com.br,Bijouterias Mabel Comercio Importação Ltda,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:22:30,Marcos,marcos@biocontrole.com.br,Bio Controle Métodos de Controle de Pragas Ltda.,ENVIADO,
+2026-09-23 10:22:34,Rubi,rubi@agepress.com,Bio Soja Ind. Químicas e Biológicas Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:22:37,Patricia,patricia_marketing@grandcru.com.br,Bioassist Comercial Ltda.,ENVIADO,
+2026-09-23 10:22:41,Dr. Rudi Konrad,rkonrad@uniaoquimica.com.br,Biolab Sanus Farmacêutica Ltda.,ENVIADO,
+2026-09-23 10:22:44,Roberto,bioline@bioline.com.br,Bioline Comercial Ltda.,ENVIADO,
+2026-09-23 10:22:48,Adriana Affonso,compras@biomedical.ind.br,Biomedical Equip. e Produtos Médico-Cirúrgicos Ltda.,ENVIADO,
+2026-09-23 10:22:51,Mariana Moreira / Valter Lopes,mariana.moreira@biomin.net,Biomin do Brasil Nutrição Animal Ltda.,ENVIADO,
+2026-09-23 10:22:54,Mauro G. Gomes,bitzer@bitzer.com.br,Bitzer Compressores Ltda.,ENVIADO,
+2026-09-23 10:22:58,Rosemeire Andrade,info@blackbox.com.br,Black Box do Brasil Ind. Com. Ltda.,ENVIADO,
+2026-09-23 10:23:01,Paulo Cezar Rezende,blanver@blanver.com.br,Blanver Farmoquímica Ltda.,ENVIADO,
+2026-09-23 10:23:05,Paulo Casar de Lima,pclima@schincariol.com.br,Blum Albras Ind. e Com. de Ferragens Ltda.,ENVIADO,
+2026-09-23 10:23:09,Delvia E.Batista,edwards@boc.com.br,Boc Edwards Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:23:12,Claudia Schillerwein,info@btwbr.com.br,Boehler Thyssen Técnica de Soldagem Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:23:16,Paulo Strube,messtek@bohnen.com.br,Bohnen Messtek - Importação e Comércio de Equipamentos Ltda.,ENVIADO,
+2026-09-23 10:23:19,Ricardo Veloso,bollhoff@bollhoff.com.br,Bollhoff Service Center Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:23:23,Herze Dulaurans,herze@bonduelle.com.br,Bonduelle do Brasil Produtos Alimentícios Ltda.,ENVIADO,
+2026-09-23 10:23:26,Patricia Braile,silvana@braile.com.br,Braile Biomédica Ind. Com. Representações S.A.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:23:29,Sofia Costa,brampac@brampac.com.br,Brampac S.A.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:23:33,Manuel Marques Mendes,comercial@branyl.com.br,Branyl Com. e Ind. Têxtil Ltda.,ENVIADO,
+2026-09-23 10:23:36,Celso Oliveira,celso.oliveira@alpla.com,Brasalpla Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:23:40,America Oliveira,lrigo@brascabos.com.br,Brascabos Componentes Elétricos e Eletrônicos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:23:44,Abner Santana,simone.mantovani@brascola.com.br,Brascola Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:23:47,Debora,debora@brasflower.com.br,Brasflower Imp. e Exp. de Flores e Frutas Ltda.,ENVIADO,
+2026-09-23 10:23:51,Cida,compras@brasforma.com.br,Brasforma Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:23:54,Raimundo Silveira,brasilbor@brasilbor.com.br,Brasilbor Comércio e Representações Ltda.,ENVIADO,
+2026-09-23 10:23:58,Nilo Cotini Filho,amelia@brasilgrafica.com.br,Brasilgrafica S.A. - Indústria e Comércio,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:01,Thiago,comex@fromm.com.br,Brasilpack Sistemas de Embalagens Ltda.,ENVIADO,
+2026-09-23 10:24:05,Wanderlei Ribeiro /Wagner Baviera,wanderlei.ribeiro@brasilquimica.com.br,Brasilquimica Indústria e Comércio Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:08,Caio Salem,brasinoxaco@uol.com.br,Brasinox Aço Inoxidavel Ltda.,ENVIADO,
+2026-09-23 10:24:13,Othon Grangeia,othon@colormix.com.br,Brasmix Comercio e Importação Ltda,ENVIADO,
+2026-09-23 10:24:17,Ary Ferderico Torres Neto,brassinter@brassinter.com.br,Brassinter S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:20,Takefumi Wai,brastrela@brastrela.com.br,Brastrela Importação e Exportação Ltda,ENVIADO,
+2026-09-23 10:24:23,Aryan,aryan@bravis.com.br,Bravis Coml. Exportadora Ltda. - EPP,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:27,Valdir,compras@pateko.com.br,Brevini Latino Americana Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:24:30,Pedro Henrique A. Pucci,bband@brinquedosbandeirante.com.br,Brinquedos Bandeirante S.A.,ENVIADO,
+2026-09-23 10:24:33,Carlos Coimbra,carlos@brnbrasil.com.br,BRN Brasil Industria e Comercio Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:37,Lígia Okita,brozemetal@bronzemetal.com.br,Bronze Metal Indústria e Comércio Ltda,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:40,Cristiane,compras@brotolegal.com.br,Broto Legal Alimentos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:44,Furlan Jr.,bia.importacao@bruck.com.br,Bruck Imp. Exp. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:47,Eduardo Antonio de Souza,brudden@brudden.com.br,Brudden Equipamentos Ltda.,ENVIADO,
+2026-09-23 10:24:50,Edson Ferreira De Souza Jr,btech@btech.com.br,Btech Tecnologias Agropecuarias e Comércio Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:54,Mary Lona,brasil@buckman.com.br,Buckman Laboratórios Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:24:57,Ana Rosa,valvulas@bugattibrasil.com.br,Bugatti Brasil Válvulas Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:25:01,Florisvaldo de Melo,marli.martins@buhlergroup.com,Buhler S.A.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:25:04,Renato Cinti,rcinti@buntech.com.br,Bun-Tech Tecnologia em Insumos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:25:08,Antônio Carlos Ottani,info@burigotto.com.br,Burigotto S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:25:11,Gilda,burkert@burkert.com.br,Burkert Contromatic Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:25:14,Carolina Pereira Lima Gropp,recepcao@casimp.com.br,C.A.S. Importação e Exportação Ltda,ENVIADO,
+2026-09-23 10:25:18,Keyla,cabletech@cabletechbrasil.com.br,Cabletech Ind. e Com. de Condutores Elétricos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:25:22,Nicolas Andreas,n.andreas@lappbrasil.com.br,Cabos Lapp Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:25:25,Marcio Possi,cadium@cadium.com.br,Cadium Comércio Importação e Exportação Ltda,ENVIADO,
+2026-09-23 10:25:28,Gisela Cazarini,gisela@cainco.com.br,Cainco Equipamentos para Panificação Ltda.,ENVIADO,
+2026-09-23 10:25:32,Vilma,vilma@caldex.com.br,Caldex Conexões e Equipamentos Ltda.,ENVIADO,
+2026-09-23 10:25:35,Ana Claudia Figueiredo,exportacao@ferracini.com.br,Calçados Ferracini Ltda.,ENVIADO,
+2026-09-23 10:25:39,João Dalmina,pampili@pampili.com.br,Calçados Kolli's Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:25:42,Carlos,coordvendas@camargociaembalagens.com.br,Camargo Companhia de Embalagens Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:25:45,Renata Fioravante,renata.fioravante@campari.com,Campari Brasil Ltda.,ENVIADO,
+2026-09-23 10:25:49,Rebeca,rebeca@canopusquimica.com.br,Canopus Ind. e Com. de Produtos Químicos Ltda.,ENVIADO,
+2026-09-23 10:25:52,Wernes Babbe,canpac@canpac.com.br,Canpac Comércio e Representações Ltda.,ENVIADO,
+2026-09-23 10:25:56,Roberto,capricornio@capricornio.com.br,Capricórnio S.A.,ENVIADO,
+2026-09-23 10:25:59,Dany,dany@rojemac.com.br,Carbinox Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:26:02,Rogério,logistica@uniparcarbocloro.com.br,Carbocloro S.A. Indústrias Químicas,ENVIADO,
+2026-09-23 10:26:06,Beth,beth@carbomec.com.br,Carbomec Ind. de Produtos Eletromecânicos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:26:09,Tânia Menardo,importexport@carbonolorena.com.br,Carbono Lorena S.A.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:26:13,Persio,comex@carci.com.br,Carci Ind. Com. Aparelhos Cirúrgicos e Ortopédicos Ltda.,ENVIADO,
+2026-09-23 10:26:16,José Inácio Maia,inacio.maia@cardinal.com,Cardinal Health Brasil 402 Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:26:20,Aline Ando de Lima,carino@carino.com.br,Carino Ingredientes Ltda.,ENVIADO,
+2026-09-23 10:26:23,Stela Pavlakis,stela.pavlakis@cas.com.br,CAS - Produtos Médicos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:26:26,Mario Coradi,flavio.siqueira@contini.com.br,Casa Di Conti Ltda.,ENVIADO,
+2026-09-23 10:26:30,Gérson Domingos Zílio,export@casp.com.br,Casp S.A. Ind. e Com.,ENVIADO,
+2026-09-23 10:26:33,Valdir,contabilidade@catalisebrasil.com,Catalise Ind. e Com. de Metais Ltda.,ENVIADO,
+2026-09-23 10:26:36,Daniele Goncalves,importacao@cavemac.com.br,Cavemac Indl e Coml de Maqs Imp e Exp Ltda,ENVIADO,
+2026-09-23 10:26:40,Vanessa Flores,vanessa_flores@ccstec.com.br,CCS Tecnologia e Serviços Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:26:44,Pollyanna Molica,pollyanna.molica@cebibrasil.com.br,Cebi Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:26:47,Gilberto Hoshi,celmar@celmarnet.com.br,Celmar Comercial e Importadora Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:26:50,João Paulo,joao.paulo@celocorteembalagens.com.br,Celocorte Embalagens Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:26:54,Olívia,olivia@cennabras.com.br,Cennabras Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:26:57,Marcos Roberto Gomes,centauro@centaurobrasil.com.br,Centauro Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:01,Marcelo,centerval@centerval.com.br,Centerval Indl. Ltda.,ENVIADO,
+2026-09-23 10:27:04,Gilcy,gilcy@brasilcraft.com.br,Centro Auditivo Oto Sonic Comércio Exp.Importação Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:08,Zago,datiquim@datiquim.com.br,Centro Sul Repres. Com. Imp. Exp.Ltda.,ENVIADO,
+2026-09-23 10:27:12,Ana Paula,vendas@tubexpress.com.br,Cerantola do Brasil Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:15,Bruno,oxiquimica@oxiquimica.com.br,Cerealista Rosalito Ltda.,ENVIADO,
+2026-09-23 10:27:18,Carlos Aguiar,dalca@correionet.com.br,Cervejarias Kaiser Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:22,Jefferson,jefferson@cerviflan.com.br,Cerviflan Indl. e Coml. Ltda.,ENVIADO,
+2026-09-23 10:27:25,Daielly Franzine,export@ceralpisos.com.br,Cerâmica Ramos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:29,João B. Martins,cestari@cestari.com.br,Cestari Industrial e Comercial S.A.,ENVIADO,
+2026-09-23 10:27:32,Paulo Mendes / Victor Mendes,paulo.mendes@cava.com.br,Ceva Saúde Animal Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:36,Mauro Cavalcante,eduardo.breda@ipaper.com,Champion Papel Celulose Ltda.,ENVIADO,
+2026-09-23 10:27:39,Waldimir Carlos Gandolfo,cury@aleph.com.br,Chapéus Vicente Cury S.A.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:42,Lídia Chang,dpacifico@chemtrend.com.br,Chem-Trend Ind. Inc. e Cia.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:46,Mario Bellotto,chemicaltech@chemicaltech.com.br,Chemicaltech Imp. Exp. e Com. de Prods Farmacêuticos Ltda,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:49,Jose Luis Luciano Bueno,chemicon@chemicon.com.br,Chemicon S.A. - Indústrias Químicas,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:53,Alessandra Climaco Guidi Ou Maildo,chemyunion@chemyunion.com.br,Chemyunion Química Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:27:56,Lais dos Santos,financeiro@chiaperini.com.br,Chiaperini Indl. Ltda.,ENVIADO,
+2026-09-23 10:27:59,Sallon,alexandreacris@vivax.com.br,Cia. Hering,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:28:03,Juliana Saraiva,juliana.saraiva@prada.com.br,Cia. Metalúrgica Prada,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:28:06,Cristina Chao,crischao@cikaeletronica.com,Cika Eletrônica do Brasil Ltda.,ENVIADO,
+2026-09-23 10:28:10,Hary Lugen Kahn,dir.comercial@cinpal.com.br,Cinpal Cia. Industrial de Peças para Automóveis,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:28:13,William Nicolau,corporativo.comercial@cipatex.com.br,Cipatex - Sintéticos Vinílicos Ltda.,ENVIADO,
+2026-09-23 10:28:17,José Waldir Beneti,corporativo.comercial@cipatex.com.br,Cipatex Impregnadora de Papéis e Tecidos Ltda.,ENVIADO,
+2026-09-23 10:28:20,André Carreira,alcandre@citroplast.com.br,Citroplast Ind.e Comércio de Papéis e Plásticos Ltda.,ENVIADO,
+2026-09-23 10:28:24,Aldo da Silva Neves,aldoneves@clark.com.br,Clark Empilhadeiras do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:28:27,Camila,camilam@cobrametais.com.br,Cobra Metais Decorativos Ltda.,ENVIADO,
+2026-09-23 10:28:31,Paula F. Finotti,paula@codap.com.br,Codap Brasil Ltda.,ENVIADO,
+2026-09-23 10:28:35,Jorge,importacao@othil.com.br,Cofix - Importação e Exportação de Frutas Ltda.,ENVIADO,
+2026-09-23 10:28:38,João Carlos Fernandes Lopes,marceloc@netpoint.com.br,Colauto Adesivos e Massas Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:28:42,Leonardo,leonardo.prosperi@dsm.com,Colombo Industria e Comercio Ltda,ENVIADO,
+2026-09-23 10:28:45,Fabiano Da Silva,acampos@colorcon.com,Colorcon do Brasil Ltda.,ENVIADO,
+2026-09-23 10:28:49,Rodrigo Lopes,colornet@colornet.com.br,Colornet Comércio Exterior Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:28:52,Carlos,nortesul@nortesul.net,Com. de Equipamentos Norte Sul Ltda.,ENVIADO,
+2026-09-23 10:28:56,Vanderlei Luiz Melchiori,comalarroz@comal.com.br,Comal-Arroz Ltda.,ENVIADO,
+2026-09-23 10:28:59,Janaina Alves de Morais,comep@terra.com.br,Comep Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:29:03,Janisse de Oliveira,destrosp@destromacro.com.br,Comercial Destro Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:29:07,Adriano Quadros,alholouro@uol.com.br,Comercial e Importadora Louro Ltda.,ENVIADO,
+2026-09-23 10:29:10,José Forte,cf@comercialforte.com.br,Comercial Forte Ltda.,ENVIADO,
+2026-09-23 10:29:14,Reinaldo,vendas@comercialinterlink.com,Comercial Inter-Link Ltda.,ENVIADO,
+2026-09-23 10:29:17,Walter,expo@jahu.com.br,Comercial Jahu Borrachas e Autopeças Ltda.,ENVIADO,
+2026-09-23 10:29:21,Valter Kenji Sugano,sveloso@commercialvps.com.br,Comercial Vps Com. de Equip. Industriais Ltda,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:29:24,Luciana  /  Alan,zimex@zimex.com.br,Comercial Zimex Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:29:28,Augusto,augusto@comilcoversand.com.br,Comil Cover Sand Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:29:31,Veridiana Estevo,vendas@ficael.com.br,Coml. Ficael Ltda.,ENVIADO,
+2026-09-23 10:29:35,Bárbara,barbara@lanmax.com.br,Coml. Starte Ltda.,ENVIADO,
+2026-09-23 10:29:38,Gisela Spinelli Vaz Lobo,comex@guaratingueta.com.br,Companhia Fiação e Tecidos Guaratinguetá,ENVIADO,
+2026-09-23 10:29:42,Daniela,daniela@compextec.com.br,Compex Tecnologia Ltda.,ENVIADO,
+2026-09-23 10:29:45,Mayumi Maeda,mmaeda@cce.com.br,Componel Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:29:48,Marli Cabral,maily@componet.com.br,Componet Eletro Eletrônica e Redes Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:29:52,Luis Fernando Valente,lvalente@comprint.com.br,Comprint Indústria e Comércio de Materiais Gráficos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:29:55,Roberto Cury,bordadoscury@terra.com.br,Comércio de Bordados Rendas e Tecidos Cury Ltda.,ENVIADO,
+2026-09-23 10:29:59,Cristiano Machado,prosintese@prosintese.com.br,Comércio e Imp. de Prod. Médicos Hospit. Prosintese Ltda.,ENVIADO,
+2026-09-23 10:30:02,Valeria,valeria@condutti.com.br,Condutti Ind. e Com. de Condutores Elétricos Ltda.,ENVIADO,
+2026-09-23 10:30:05,Fátima,vendas@conexel.com.br,Conexel Conexões Elétricas Ltda.,ENVIADO,
+2026-09-23 10:30:09,Fernanda Bagnara,fbagnara@kacyumara.com.br,Confecções Kacyumara Ltda.,ENVIADO,
+2026-09-23 10:30:13,Flavia,consistec@consistec.com.br,Consistec Controles e Sistemas de Automação Ltda.,ENVIADO,
+2026-09-23 10:30:16,Aurélio F. Gonzales Macias,constanta@constanta.com.br,Constanta Industrial Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:30:20,Ricardo Rodrigues,rrodrigues@camargocorrea.com.br,Construções e Com. Camargo Corrêa S.A.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:30:23,Nilton,marketing@converplast.com.br,Converplast Embalagens Ltda.,ENVIADO,
+2026-09-23 10:30:27,Helena Akiko,helenakiko@amcham.com.br,Cooper Power Systems do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:30:30,Jaqueline Santos,jsantos@coorstek.com,Coorstek do Brasil Materiais Avançados Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:30:34,Estella Pavlakis,contato@argosy.com.br,Copo-Fehrer Ind. de Poliuretano do Brasil Ltda.,ENVIADO,
+2026-09-23 10:30:37,Sheila,sheila@coremal.com.br,Coremal Com. e Representações Maia Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:30:41,Osvaldo Valiengo,zaliengood@coring.com,Corning Brasil Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:30:44,Luis Carlos Perez,mercom@correiasmercurio.com.br,Correias Mercúrio S.A. Ind. e Com.,ENVIADO,
+2026-09-23 10:30:48,Alaide dos Santos Cunha,corticei@fox.com.br,Corticeira Paulista Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:30:51,Vanda,vanda@cosmotec.com.br,Cosmotec Especialidades Químicas Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:30:55,Alexandre Silva Costa,costaindexp@terra.com.br,Costa Comércio Importação e Exportação de Produtos Alimenticíos L,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:30:59,Gabriela,gabriela@cotiplas.com.br,Cotiplas Ind. e Com. de Artefatos Plásticos Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:31:03,José Rubens Klaus,jrklaus@covolan.com.br,Covolan Ind. Têxtil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:31:06,Rejane Santos,rejne.santos@cpicfiber.com,Cpic Brasil Fibras de Vidro Ltda.,ENVIADO,
+2026-09-23 10:31:09,Bruna Pontes,bruna.pontes@br.nestle.com,CPW Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:31:12,Alexandre Salomão Cohen,alexandre@cralplast.com.br,Cral Artigos para Laboratório Ltda.,ENVIADO,
+2026-09-23 10:31:16,Rosa,rosa@cromatek.com.br,Cromax Eletrônica Ltda.,ENVIADO,
+2026-09-23 10:31:19,Luciane Crispim,luciane.crispim@cromex.com.br,Cromex S.A,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:31:22,Rita,exportacao@cromus.com.br,Cromus Embalagens Ind e Com Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:31:26,Ronald Kann,irmamendes@uol.com.br,Cronimet Brasil Ltda.,ENVIADO,
+2026-09-23 10:31:30,Mariana Viveiros,mariana.viveiros@daiichisankyo.com.br,Cropchem Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:31:33,Reginaldo,reginaldo.baroni@br.endress.com,Cross Link Consultoria e Com. Ltda.,ENVIADO,
+2026-09-23 10:31:36,Lázaro Medeiros,rlopes@crowncork.com.br,Crown Cork Embalagens S.A.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:31:40,Antonio Silvio Hugo,crown@crown.com.br,Crown Roll Leaf do Brasil Ltda,ENVIADO,
+2026-09-23 10:31:43,Amuna,amuna@orioncores.com.br,Crw Corantes Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:31:47,Fernando Rodrigues Carballal,ctouro@curtumetouro.com.br,Curtume Touro Ltda.,ENVIADO,
+2026-09-23 10:31:50,Nilton Tumonis,vendas@cyklop.com.br,Cyklop do Brasil Embalagens S.A.,ENVIADO,
+2026-09-23 10:31:53,Solange / Jaqueline,solange@dabasons.com.br,Dabasons Imp. Exp. e Com. Ltda.,ENVIADO,
+2026-09-23 10:31:57,Dorival Ferrari,dacarto@dacarto.com.br,Dacarto S.A. Ind. de Plásticos,ENVIADO,
+2026-09-23 10:32:00,Jose Alves Ferreira,Jose.AlvesFerreira@damovo.com,Damovo do Brasil S.A.,ENVIADO,
+2026-09-23 10:32:04,Sonia Santos,soniasantos@biosoja.com.br,Danny Com. Imp. e Exp. Ltda.,BOUNCE / EMAIL INEXISTENTE,
+2026-09-23 10:39:54,Andre,cerantola@frisokar.com.br,Daten Tecnologia Ltda.,ENVIADO,
+2026-09-23 10:39:58,Carlos Alberto Grandeza,cgrandeza@datiquim.com.br,Datiquim Produtos Químicos Ltda,ENVIADO,
+2026-09-23 10:40:01,Eliana,eliana@dayhome.com.br,Dayhome Coml. Ltda.,ENVIADO,
+2026-09-23 10:40:05,Perácio Cardoso,dcirighetto@uol.com.br,Dci Dinamic Cassette International do Brasil Com. Ltda.,ENVIADO,
+2026-09-23 10:40:09,Rogério de Marchi,rogerio@demarchi.com.br,De Marchi Ind. e Com. de Frutas Ltda.,ENVIADO,
+2026-09-23 10:40:12,Valdir Siedschlag,decar@decar.com.br,Decar Autopeças Ltda.,ENVIADO,
+2026-09-23 10:40:16,Marly Inson,deg@deg.com.br,Deg Importação de Produtos Químicos Ltda.,ENVIADO,
+2026-09-23 10:40:20,Alexandre Kumai,alexandre.kumai@delga.com.br,Delga Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:40:23,Henrique,henrique.contabil@ymail.com,Dellafrutta Comércio Atacadista de Frutas Ltda.,ENVIADO,
+2026-09-23 10:40:27,Mariza C. Souza,mariza@delquimica.com.br,DelQuímica Comercial Ltda.,ENVIADO,
+2026-09-23 10:40:30,Marcelo Paludetto,democrata@democrata.com.br,Democrata Calçados e Artefatos de Couro Ltda.,ENVIADO,
+2026-09-23 10:40:34,Maria Celia Carneiro,exportacao@morelli.com.br,Dental Morelli Ltda.,ENVIADO,
+2026-09-23 10:40:37,Roberto Franco,roberto.franco@denverimper.com.br,Denver Impermeabilizantes Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:40:41,Erico Credidio Turco,desfar@terra.com.br,Des-Far Laboratórios Ltda.,ENVIADO,
+2026-09-23 10:40:44,Raquel Karpfenstein,raquel@descarpack.com.br,Descarpack Descartáveis do Brasil Ltda.,ENVIADO,
+2026-09-23 10:40:48,Otavio A. Gonçalves,otavio@devir.com.br,Devir Livraria Ltda.,ENVIADO,
+2026-09-23 10:40:52,Glaudio,dimartino@dimartino.com.br,Di Martino Indústrias Metalúrgicas Ltda.,ENVIADO,
+2026-09-23 10:40:56,Andrea Guerreiro,andrea.cristina.guerreiro@carrefour.com,Dia Brasil Sociedade Ltda.,ENVIADO,
+2026-09-23 10:40:59,André Luís Guarniere,vendas@diadur.com.br,Diadur Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:41:03,Laura Dobelli,laura@dianapaolucci.com.br,Diana Paolucci S.A. Ind. e Com.,ENVIADO,
+2026-09-23 10:41:06,Flavia Barbalho,flavia.barbalho@diasorin.com.br,Diasorin Ltda.,ENVIADO,
+2026-09-23 10:41:10,Claudio Macedo,claudio.macedo@dimep.com.br,Dimas de Melo Pimenta S.A. Ind. de Relógios,ENVIADO,
+2026-09-23 10:41:13,Cássio Omura,cnc@dimensional.com.br,Dimensional Equipamentos Elétricos Ltda.,ENVIADO,
+2026-09-23 10:41:17,Fabio Santos,fabio.santos@wheatonbrasil.com.br,Dinaco Importação Com. S/A,ENVIADO,
+2026-09-23 10:41:21,Luiz Eugenio Pedro De Freitas,dinagro@dinagro.com.br,Dinagro Agro Pecuaria Ltda.,ENVIADO,
+2026-09-23 10:41:24,Marcelo Molterer,info@dinatecnica.com.br,Dinatécnica Ind. e Com. Ltda.,ENVIADO,
+2026-09-23 10:41:28,Fernando Garcia,dispafilm@dispafilm.com.br,Dispafilm do Brasil Ltda.,ENVIADO,
+2026-09-23 10:41:31,Marco A P Saba,reliance.comercial@terra.com.br,Distribuidora de Frutas Céu Azul Ltda.,ENVIADO,
+2026-09-23 10:41:35,Mayara Santos,mayara.santos@sealedair.com,Diversey Brasil Industria Química Ltda.,ENVIADO,
+2026-09-23 10:41:39,Daniela Salfatis,dni@dni.com.br,DNI Dani Condutores Elétricos Ltda.,ENVIADO,
+2026-09-23 10:41:43,Paulo Henrique Corradi Mazzer,paulo@doptex.com.br,Doptex Ind. e Com. Têxtil Ltda.,ENVIADO,
+2026-09-23 10:41:46,Carlos Assis,assis@dori.com.br,Dori Alimentos S/A,ENVIADO,
+2026-09-23 10:41:50,José Carlos Viana,correio@dormer.com.br,Dormer Tools S.A.,ENVIADO,
+2026-09-23 10:42:02,Silvana Santana,silvana@doutex.com.br,Dou Tex S.A. Ind. Têxtil,ENVIADO,
 2026-09-23 19:53:05,Sonia M. B. Monici,sonia.monici@dovac.com.br,Dovac Indústria e Comércio Ltda.,ENVIADO,azevedohitallo@gmail.com
 2026-09-23 19:53:09,Cláudio José,engeturb@aleph.com.br,Dresser-Rand do Brasil Ltda.,ENVIADO,azevedohitallo@gmail.com
 2026-09-23 19:53:14,Yuri Sahuy,comex@drycolor.com,Dry Color Especialidades Químicas Ltda.,ENVIADO,azevedohitallo@gmail.com
@@ -809,3 +809,303 @@ data_hora,nome,email,empresa,status,remetente
 2026-10-06 10:38:04,Berenice,bere@realfrutas.com.br,Real Frutas - Eireli,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
 2026-10-06 10:38:10,Daniel Saieg Wolkind,realum@realum.com.br,Realum Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
 2026-10-06 10:38:14,Antônio Paulino,rebela@deltabr.com.br,Rebela Comercial Exportadora Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-04 19:43:18,Fernanda,export@mapol.com.br,Mapol Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:21,Cristiane Pavan,cristiane.pavan@mappel.com.br,Mappel Indústria de Embalagens S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:24,Fabio,fabio@maqmoveis.com.br,MaqMóveis Industria e Comércio de Móveis Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:27,Ignácio Muza Mancilha Filho,produto@margirius.com.br,Mar Girius Continental Ind. de Cont. Elétricos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:31,Leticia Bonetti,leticia.bonetti@marel.com,Marel Stork Food Systems Máquinas Alimentícias Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:34,José Eduardo Casarin,sales@marilan.com,Marilan Alimentos S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:37,Alexander Korich,vendas@marles.com.br,Marles Ind. Têxtil Ecom. Limitada,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:41,Paulo Dornellas,marposs@br.marposs.com,Marposs Aparelhos Eletrônicos de Medição Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:44,Valdir,stoklux@uol.com.br,Marultex Ind. e Com. de Produtos Ópticos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:47,Robson José Paiva,suprimentos@marvitubos.com.br,Marvitubos Tubos e Peças Hidráulicas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:51,Luciano Riguini,mase@mase.com.br,Mase Produtos Químicos e Farmacêuticos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:54,Elaine,elaine@masterpumps.com.br,Master Pumps Embalagens Com. Imp. e Exp. Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:43:57,Alex,alex@maurano.com.br,Maurano Maurano Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:00,Egon Scheiber,mausa@mausa.com.br,Mausa S.A. Equipamentos Industriais,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:03,José Luiz Braga,joseluiz.braga@mausergroup.com,Mauser do Brasil Embalagens Industriais S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:07,Ricardo Sheng,rafael@acasa.com.br,Max-Tech Comercial Importação & Exportação Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:10,Claudia,mazda@mazdanet.com.br,Mazda Embalagens Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:13,Deise,prolam@prolam.com.br,Mbset Ind.l Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:16,Cassia,cassia@mcmindustrial.com.br,MCM Química Indl. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:19,Eliseo Mota,aberg@mcpeng.com.br,Mcp Consultoria e Engenharia Naval Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:23,Fulvio,fulvio.a@policom.com.br,Meb Comercial Importadora e Exportadora Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:26,Alex Alves,mecano@mecano.com.br,Mecano Fabril Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:29,José Antonio,comercial@mecaplast.com.br,Mecaplast do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:32,Roberto Mitsuo Inoue,roberto.inoue@mectrol.com.br,Mectrol do Brasil Comercial Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:35,Ronald,importacao@lamedid.com.br,Med Goldman Industria e Com. Ltda. - Epp,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:39,Iris Braun,megh@uol.com.br,Megh Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:42,Murilo Ribeiro de Araujo,comex@melhoramentos.com.br,Melhoramentos Papéis Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:45,Justino Salgueiro,surptos@melitta.com.br,Melitta do Brasil Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:48,Moacir,mensageirafrutas@gmail.com,Mensageira Comércio e Importação de Frutas Ltda. - EPP,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:51,Luciana Melo,lucianamelo@mepbrasil.com.br,Mep Brasil Com. e Serv. de Maq. e Equip. na Transformação de Aço,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:55,Marcos A. Nunes Vasconcelos,vendas.mercocitrico@tlna.com,Mercocítrico Fermentações S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:44:58,Daniela,metalac@metalac.com.br,Metalac Sps Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:01,Luiz Eduardo Brunoro,rojek@rojek.com.br,Metalgráfica Rojek Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:04,Cassio Gomes / Gilberto,cassio.gomes@metalinox.com.br,Metalinox Aços e Metais Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:08,Simone / Fernanda,metalms@metalms.com.br,Metalms Industrial Brasileira de Metais Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:11,Paulo César Amarai Maluf,sinterizados@metalpo.com.br,Metalpo Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:14,Antônio Lesli,comercial@schadek.com.br,Metalúrgica Schadek Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:17,Paolo Fiorleta,marketing@metroval.com.br,Metroval Mecânica e Medição Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:21,Isaac da Fonseca,vendas@mettler.com.br,Mettler Toledo Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:24,Jayne Silva,jsilva@meyn.com,Meyn Ddo Brasil - Máquinas e Equipamentos Industriais Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:27,Guadalupe Rengifo,export@dwr.com.br,Mgi Coutier Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:30,Samir Tarobori,miriam@merheje.com.br,Michel Merheje e Cia. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:33,Carlos Cesar Bento Ferreira,carlos@microquimica.com,MicroQuímica Indústrias Químicas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:37,Rosana Hermínio,rosana.herminio@midland-quimica.com.br,Midland Química do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:40,José Ferreira,amparo@uol.com.br,Minasa Trading International S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:43,Rogerio Calderon,minerios@ourobranco.com.br,Minerios Ouro Branco Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:46,Sueli Rosa,sueliminesxco@terra.com.br,Minexco Com. Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:49,Maria José Nascimento Ferraz,comex@miracema-nuodex.com.br,Miracema Nuodex Ind. Química Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:52,Paulo Azevedo,pauloazevedo@mirale.com,Mirale Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:56,Meguro,hi.meguro@mitsui.com.br,Mitsui Brasileira Imp. e Exp. S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:45:59,Luiz Sérgio Campanhão,comex@mitutoyo.com.br,Mitutoyo Sul Americana Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:02,Eduardo Alves,mtbcomex@bollhoff.com.br,Mollertec Bollhoff Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:05,Aldo de Andail,eximp@montana.com,Montana Química S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:08,Antonio Cordeiro Rosa Neto,neto@morlan.com.br,Morlan S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:12,Ana Camargo,ana.camargo@motoman.com.br,Motoman Robótica do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:15,Renata,financeiro01@motorsystem.com.br,Motor System Automação Com. Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:18,Vera Bonora Voltolim,info@msanet.com.br,Msa do Brasil Equip. e Instrumentos de Segurança Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:21,Jaqueline / Karen,contato@msiforks.com.br,MSI - Forks Garfos Industriais Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:24,Ermeson Pellin,tem@mte-thomson.com.br,Mte Thomson Ind. Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:28,Romeu Marcondes Monteiro Neto,mtu.brasil.rj@uol.com.br,Mtu do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:31,Lucas Manuel do Santos,lucas.manoel@mubea.com.br,Mubea do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:34,Milton,milton@multitek.com.br,Multi Tek Imp. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:37,Carlos / Wilson,carlos@multicarnes.com.br,Multicarnes Com. de Alimentos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:40,Sofia Rovath,exports@multicel.com.br,Multicel Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:43,Thiago Silva,contato@mundialtractor.com.br,Mundialtractor Com. Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:47,Luís Carlos Xavier,muratec@muratec.com.br,Murata do Brasil Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:50,Edgard Alan Rodrigues,info@murr.com.br,Murrelektronik do Brasil Indústria e Comércio Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:53,Claudia,tiago@musical-express.com.br,Musical Express Comercio Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:56,Clotilde,clotilde@mycom.com.br,Mycom Chemical Process do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:46:59,Ediene Felício,efelicio@myersind.com,Myers do Brasil Embalagens Plásticas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:02,Aldemiro Bignarde Jr.,jacto@jacto.com.br,Máquinas Agrícolas Jacto S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:06,Jorge Mochizuki,coml@nachi.com.br,Nachi do Brasil Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:09,Steven Dabbah,steven@nadir.com.br,Nadir Figueiredo Ind. e Com. S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:12,Maria de Lourdes de Oliveira,nagel@nagel.com.br,Nagel Brasil Máquinas e Ferramentas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:15,Nilson Fioravante Donato,nash@correionet.com.br,Nash do Brasil Bombas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:18,Haroldo Paiva Correa Lima,haroldol@nec.com.br,Nec do Brasil S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:21,Tiago Barboza,tiago.barboza@newagebebidas.com.br,Newage Indústria e Comércio de Bebidas e Alimentos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:25,Rogerio Fanini Junior,ngmetalu@ngmetalurgica.com.br,Ng Metalúrgica Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:28,Mario Lutfi,mlutfi@niagara.com.br,Niagara Comercial S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:31,Fabio Arantes,nicrom@nicromquimica.com.br,Nicrom Química Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:34,Alex Hoster,diret@niehoff.com.br,Niehoff Herborn Máquinas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:37,Renato Rebolho,rrebolho@nilpel.com.br,Nilpel Ind. e Com. de Papéis Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:41,Ricardo Tsuboi,ndbmail@nethall.com.br,Nisshinbo do Brasil Ind. Têxtil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:44,Fabio,fabio@regattatecidos.com.br,Nixos Coml. Importadora e Exportadora Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:47,Andrea Guardino Machado,nordsee@nordsee.com.br,Nordsee Comercial Importadora e Exportadora Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:50,Mrilene Dias,hotmelt@nordson.com.br,Nordson do Brasil Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:54,Luis Fernando Consentino Pinheiro,export@nortene.com.br,Nortene Plásticos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:47:57,Mariana,petrene@novapetrene.com.br,Nova Petrene Consultoria Imp. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:00,Luiz Antonio Ridigulo,lar@novaplast.com.br,Nova Plast Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:03,Orvaci Nicolino,diretoria@novomedica.com.br,Novomedica Com. Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:06,Dalila Yamamoto,compras@nsam.com.br,Ns Indústria de Aparelhos Médicos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:10,Bruno,imp1@ntsdobrasil.com.br,NTS do Brasil Comércio de Máquinas e Ferramentas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:13,Eduardo,eduardo@nutri.com.br,Nutri.Com Tecnologia Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:16,Marcelo,mrodrigues@nutricamp.com.br,Nutricamp - Produtos Agropecuários Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:19,Maria Gorete Castelani,ntplant@correionet.com.br,Nutriplant Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:22,Sônia Breda,sonia@ober.com.br,Ober S.A. Ind. e Com.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:25,Ralfi Mayer,ralfimayer@graficaoceano.com.br,Oceano Industria Gráfica e Editora Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:29,Patrícia Bonamigo,patricia.bonamigo@oerlikon.com,Oerlikon Balzers Revestimentos Metálicos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:32,Eunice Souza Oliveira,oetker@oetker.com.br,Oetker Produtos Alimentícios Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:35,Adilson Parrella,tamorim@ogara-hess.com,Ogara Hess e Eisenhardt Armoring do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:38,Fabio,fabio@sovnet.com.br,Ogura Clutch do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:41,Maria Conceicao,mines@okidata.com.br,Oki Data do Brasil Informática Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:45,Cristina,cristina@okuma.com,Okuma Latino Americana Comercio Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:48,Sergio Rapoport,olimpus@olimpus.com.br,Olimpus Industrial e Comercial Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:51,Paulo Macari,andrezaenxovais@andrezaenxovais.com.br,Oliveira Lopes Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:54,Fernando Lanzilo,fernando.lanzilo@omnilink.com.br,Omnilink Tecnologia S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:48:57,José Gamito Fo,gamito@omnisys.com.br,Omnisys Engenharia Ltda. Epp,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:00,Renata Boffo,renata.boffo@optima-bra.com,Optima do Brasil Máquinas de Embalagem Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:04,Cristina Fabiano,cristina@opto.com.br,Opto Eletrônica S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:07,Luiz Sérgio Bueno de Mattos,luiz_mattos@orica.com,Orica Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:10,Christina Vodopizie,christina.vodopizie@orthofix.com.br,Orthofix do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:13,Cristina,ortocir@ortocir.com.br,Ortocir Ortopedia Cirurgia Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:16,Marcos,ortomedic@ortomedic.com.br,Ortomedic Distribuidora de Implantes Ortopédicos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:20,Marcos Orlandele,orlandeli@osg.com.br,Osg Ferramentas de Precisão Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:23,Paula,oswaldocruz@ocq.com.br,Oswaldo Cruz Quimica Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:26,Erwin Herbert Kaufmann,assistec@vedacit.com.br,Otto Baumgart Ind. e Com. S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:29,Patrícia,oximig@oximig.com.br,Oximig Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:32,Carlos,carlos@oxyquimica.com.br,Oxy Química e Metalúrgica Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:36,Carlos Alberto da Silva,carlos.export@pacaembuautopecas.com.br,Pacaembu Autopeças Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:39,Celly,monforte@monforte.com.br,Pacific Imp. Exp. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:42,Douglas Mariano,contato@paletrans.com.br,Paletrans Equipamentos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:45,Edson Farias,edson.farias@panini.com.br,Panini Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:48,Renato,financeiro@alumaq.com.br,Parabor Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:51,Anna,info@parafix.com.br,Parafix Ind. e Com. de Fitas Adesivas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:55,Marcos Silveira,marcos.silveira@pavax.com.br,Pavax Com. e Representação Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:49:58,Rodrigo Babeto,rodrigo@pecompe.com.br,Pe com Pe Calçados Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:01,Paulo Crespo,paulocrespo@arinox.com.br,Pelkote Ind. e Com. de Papéis Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:04,Natalia Pires / Dalton Umeara,np@metrohm.com.br,Pensalab Equipamentos Industriais Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:08,Fernando Jose de Lima,penzel@penzel.com.br,Penzel Comercio Exterior Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:11,Graciela Scarpelli,graciela.scarpelli@br.pvmgrp.com,Perfetti Van Melle Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:14,Luiz Henrique Santos Costa,info@peribrasil.com.br,Peri Formas e Escoramentos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:17,Luiz Carlos Araujo,peroladomar@terra.com.br,Perola do Mar Comércio Imp. e Exp. de Produtos Alimentícios Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:20,Edilson Dominicheli,edilson.dominicheli@pertech.com.br,Pertech do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:24,Sergio Zini,vendas.peroxidos@solvay.com,Peróxidos do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:27,Pedro da Rocha Roquete,petrom@petrom.com.br,Petrom - Petroquímica Mogi das Cruzes S/A,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:30,Pedro Lopes,dewert@phoenix-mecano.com.br,Phoenix Mecano Comercial e Técnica Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:33,Leticia,phytoessence@uol.com.br,Phytoessence Fragâncias Ltda. Me,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:36,Mara,importacao@pic-web.com.br,PIC Química e Farmacêutica Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:39,Paula,paula@pilarquimica.com.br,Pilar Química do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:43,Marco Antonio Oliveira,oliveira@tigre.com.br,Pincéis Tigre S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:46,Carlos Zanelatto,piovan@piovan.com.br,Piovan do Brasil Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:49,Renato,renato@pkodobrasil.com.br,PKO do Brasil Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:52,Nilton Antonialli,fernando.fernandes@placo.com.br,Placo do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:55,Dovania,importacao@plantdefender.com.br,Plant Defender Tecnologia Agrícola Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:50:58,Everson Targas,export@plasutil.com.br,Plasutil - Ind. e Com. de Plásticos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:02,Nádia de Oliveira,plastipak@plastipak.com.br,Platipak Packaging do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:05,Geraldo Mendonça,plpcoml@plpbrasil.com.br,Plp - Produtos para Linhas Preformados Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:08,Flavia,flavia.giovana@polenghi.com.br,Polenghi Industrias Alimentícias Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:11,Sergio Ioshio Sassaki Beppu,poli@polinutri.com.br,Poli-nutri Alimentos Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:14,Sonia Augusta,segrmv@polimix.com.br,Polimix Concreto Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:17,Monica O M Souza Zacarin,monica@polimold.com.br,Polimold Industrial S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:21,Agnaldo Victor Fafarro,polo@traex.com.br,POLO COMERCIO INTERNACIONAL LTDA,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:24,Erika Werneck de Castro,vendas@polyclip.com.br,Poly Clip System Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:27,Flavio,flavio@tovani.com.br,Polyfit Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:30,Gino Chiapetta,gino.chiapetta@polynt.com,Polynt Composites Brazil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:33,Mauro Majerowicz,mauro@polyorganic.com.br,Polyorganic Tecnologia Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:37,Fernanda Pamplona,brasil@polysack.com,Polysack Indústrias Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:40,Marcos,marcos@pomarnovo.com.br,Pomar Novo Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:43,Adalberto de Oliveira Bento,exportacao@jazam.com.br,Pompéia S.A. Ind. e Com. - Jazam Alimentos,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:46,Hoover de Oliveira Urbano Jr,compras@porcher.com.br,Porcher do Brasil Tecidos de Vidro Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:49,Carlos,cabottini@portofinobrasil.com.br,Portofino Ind. e Com. de Plásticos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:52,Simone Grimaldi,simone@prafesta.com.br,Prafesta Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:56,Carlos Tanaka,vendas@pramac.com.br,Pramac Brasil Equipamentos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:51:59,Carlos Lima,carlos.lima@aromat.com.br,Prime do Brasil Ind. e Com. de Produtos Químicos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:02,Regis Barbosa,regis.primicia@uol.com.br,Primicia S.A. Ind. e Com.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:05,Edmilson Ferreira,schin@schincariol.com.br,Primo Schincariol Ind. de Cervejas e Refrigerantes S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:08,Lucia Pestana,tintas@printcor.com.br,Printcor Ind. e Com. de Tintas e Vernizes Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:11,Antonio Ferreira Da Silva,proar@proar-aviacao.com.br,Proar - Aeronaves e Revisões Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:15,Valdir Borges,borges.v@pg.com,Procter e Gamble Industrial e Comercial Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:18,Carlos Muller,metaltex@metaltex.com.br,Produtos Eletrônicos Metaltex Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:21,Jose Adolfo Trevelin / Renata Faggioni,ourofinovet@ourofino.com,Produtos Veterinários Ouro Fino Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:24,Bruno Araújo,bruno.araujo@prolind.com.br,Prolind Indl. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:28,Neuza,vendas@promaflex.com.br,Promaflex Industrial Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:31,Geovana,promat@promat.com.br,Promat Indústria e Comércio Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:34,Jairo Martins,jairo@proparts.esp.br,Proparts Power Comércio e Importacão Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:37,Claudia Guimarães,claudia.guimaraes@br.elofhansson.com,Prot Cap Artigos Para Proteção Industrial Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:40,Elissandra Yamada,elissandra.yamada@protervac.com.br,Protervac Ind. e Com. de Embalagens e Máquinas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:43,Joel,jppereira@psitecnologia.com.br,Psi Tecnologia Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:47,Valter Munhões,cmunhoes@pticorp.com.br,Pti Power Tansmission Industries do Brasil S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:50,Fabio Sousa,purolite@purolite.com.br,Purolite do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:53,Haidy Busch Torres,pmb@putzmeister.com.br,Putzmeister Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:56,Aparecido Sandre,qg@qginox.com.br,Q.G. Ind.e Comércio de Acessórios Industriais Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:52:59,Andréa,quimanil@quimanil.com.br,Quimanil Produtos Químicos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:03,Nelson Junqueira,quirios@quirios.com.br,Quirios Produtos Químicos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:06,Messias Fiel de Souza,frabini@ibm.net,Rassini - Nhk Autopeças S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:09,Berenice,bere@realfrutas.com.br,Real Frutas - Eireli,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:12,Daniel Saieg Wolkind,realum@realum.com.br,Realum Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:15,Antônio Paulino,rebela@deltabr.com.br,Rebela Comercial Exportadora Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:18,Juan Rodriguez,jrodriguez@redilembalagens.com.br,Redil Com. Imp. e Exp. de Embalagens Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:22,Rogerio Franceschelli,compras@salcisne.com.br,Refinaria Nacional de Sal S.A. - Sal Cisne,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:25,Alexandre Germuts,germuts@rehau.com.br,Rehau Ind. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:29,João Carlos Vianna de Amorim,renkzanini@highnet.com.br,Renk Zanini S.A. Equipamentos Industriais,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:32,Antonio,reprochem@reprochem.com.br,Reprochem Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:35,Debora Prado Carnevale,requenaimpot@uol.com.br,Requena Comercial e Importadora Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:38,Adelino José Araujo,comex@resil.com.br,Resil Comercial Industrial Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:41,Emily ou Giovana,compras@br-ercagroup.com,Rhodia Industria Quimica Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:45,Lucélia Soares,comex@rhotoplas.com.br,Rhotoplas Ind. e Com. de Embalagens Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:48,João Almeida Sobrinho,picpic@riberball.com.br,Riberball Mercantil e Industrial Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:51,Mauricio,ricargraf@ricargraf.com.br,Ricargraf Gráfica e Editora Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:54,David Remsen,cmendes@rich.com,Rich do Brasil Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:53:57,Jorge Botossi,jorgeb@moinhosantaclara.com.br,Richard Saigh Indústria e Comércio S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:01,Enio Guedes,enio@rell.com,Richardson Electronics do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:04,Antônio Romualdo da Silva,expo@riclan.com.br,Riclan S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:07,Fernando Foramilio (SCM),jose.teixeira@rittal.com.br,Rittal Sistemas Eletromecanicos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:11,Milton Zaven,milton.zaven@ropecas.com.br,Ro-Peças Rolamentos e Mancais Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:14,Elisa,elisa@ogura.com.br,Rojemac Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:17,Vanessa,imp.exp.@cbfcorp.com.br,Rolamentos CBF Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:20,Cristina,financeiro@rolemak.com.br,Rolemak Coml. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:23,Érika Rosa,vendas@rdt.com.br,Rosenberger Domex Telecomunicações Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:26,Cristine Rodrigues,rossetmaq@terra.com.br,Rosset Com. de Máquinas Gráficas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:30,Francisco Augusto Redondo,rosset@ibm.net,Rosset e Cia. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:33,Katia,rotatek@rotatek.com.br,Rotatek Brasil Equipamentos Gráficos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:36,Ivone,ivone@bombasrowa.com,Rowa do Brasil Comercial de Bombas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:39,Manfredini,manfredini@royalcanin.com.br,Royal Canin do Brasil Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:42,Daniela,royce@royce.com.br,Royce Connect Ar Condicionado para Veículos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:45,Jose Dias Martins Pereira,milena@rtl.com.br,Rpl Rolamentos Paulista Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:49,Antonio I. de Assis,export@rud.com.br,Rud Correntes Industriais Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:52,Reinaldo José Marques,saargummi@saargummi.com.br,Saargummi do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:55,Hans Henrik Knudsen,hans@saccobrasil.com.br,Sacco Comercio Importação e Exportação de Alimentos Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:54:58,Gislene Vilalva,sacmi@sacmi.com.br,Sacmi do Brasil Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:01,Antonio Hideo Hiroki,sakata@sakata.com.br,Sakata Seed Sudamerica Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:05,Jones Carlos Louback,sampla@sampla.com.br,Sampla do Brasil Ind. e Com. de Correias Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:08,Renato Gianette,brasil@samputensili.com.br,Samputensili do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:11,Francisco Cortez / Carlos Aquino,atendimento@samsonite.com.br,Samsonite Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:14,Neiva,ncimas@sancordobrasil.com.br,Sancor do Brasil Produtos Alimentícios Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:17,Pedro Mesquitella Macedo,vendas@santher.com.br,Santher Fábrica de Papel Santa Therezinha S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:21,Milton Jun Nakashima,sanyotex@sanyotex.com.br,Sanyotex Ltda. .,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:24,Rogerio de Medeiros,rogerio@sarfam.com.br,Sarfam Comercial Importadora Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:27,Leandro / Bruna,savasa@savasa.com.br,Savasa Impressores Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:31,Priscila Prado,sbs@sbs.com.br,Sbs - Special Book Services Livraria Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:34,Gerson W. P. Barreto,scandiflex@scandiflex.com.br,Scandiflex do Brasil S.A. Indústrias Químicas,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:37,Gisene,gcoimbra@scholle.com,Scholle Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:40,Maristela Castro,sgb.compra@schott.com,Schott Glaverbel do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:44,Raimundo Brant,mlopes@schrader.com.br,Schrader Bridgeport Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:47,Rose Franca,rfranca@primedobrasil.com.br,Schulz Bc - Equipamentos e Acessórios Tubulares Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:50,Hanna Joetten,schunk@schunk.com.br,Schunk do Brasil Sinterizados e Eletrografites Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:54,Rodrigo Esteves,r.esteves@vasitex.com.br,Schutz Vasitex Indústria de Embalagens S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:55:57,Angela,angela@selinc.com,Sealed Air Embalagens Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:00,Fernando,secafe@secafe.com.br,Secafe Cortes e Artefatos de Arame Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:03,Christian Pfister,secur@secur.com.br,Secur-Comercial Importadora e Exportadora Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:06,Cláudia Machia,selco@asatnet.com.br,Selco Vedações Dinâmicas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:10,Adenilson Antonio dos Santos,adenilson@selectchemie.com.br,Selectchemie Importação Exportação e Representações Ltd,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:13,Gregório de Nadai Filho,selene@selene.com.br,Selene Ind. Têxtil S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:16,Ngan Hiu Chun,nelson.impex@semptoshiba.com.br,Semp Toshiba S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:19,Antônio Augusto Vaz,senior@dialdata.com.br,Senior do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:22,Heitor de Piratininga,rcecco@sensormatic.com.br,Sensormatic do Brasil Eletrônica Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:26,Edenir Andrade,serac@uol.com.br,Serac do Brasil Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:29,Alexandre Camargo,ines.rodrigues@seral.com.br,Seral do Brasil S.A. Ind. Metalúrgica,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:32,Benito Reinaldo Pajaro,compras2@sesisenaisp.org.br,Servico Nacional de Aprendizagem Industrial,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:35,Adriana Benati,a.benati@sestini.com.br,Sestini Mercantil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:38,Fernando,financeiro@sfera.com.br,Sfera Comercial e Importadora Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:42,Karla Gomes,kgomes@sgtecnologia.com.br,Sg Tecnologia Clinica Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:45,Daniela Parazi,dparazi@sicad.com.br,Sicad do Brasil Fitas Auto Adesivas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:48,Marilia Signorini Arbulu,marilia@siegling.com.br,Siegling Brasil Elem. de Transmissão e de Transporte Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:51,Florêncio Félix,florencio.felix@sig.biz,Sig Pack Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:55,Patrícia Santos,signodebrasileira@signode.com.br,Signode Brasileira Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:56:58,Osanir Lima,limao@silberline.com.br,Silberline Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:01,Fernanda,simcomaq@uol.com.br,Simco Com. Imp. Exp. de Máquinas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:04,Henrique,sintenac@sintenac.com.br,Sintenac Ind. e Com. de Produtos Sintéticos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:07,Mara Lucas,vendas@sintexlaminados.com.br,Sintex Laminados Sintéticos Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:11,Maria Conceicao Ferracine,diretoria@siti.com.br,Siti S.A. Soc. de Instalaçoes Termoelétricas Industriais,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:14,Leandro Lopes Ferreira,marketing@siva.com.br,Siva Ind. e Com. de Artefatos de Arame e Aço Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:17,Helena Beatriz,helenabeatriz.tiburcio@sleever.com.br,Sleever International Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:20,Beatriz Tirado,btirado@johncrane.com,Smiths Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:23,Rosana Leonardo,snd@snd.com.br,SND Distribuição de Produtos de Informática Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:26,Renato Martinelli,export@invictaonline.com.br,Sobral Invicta S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:30,Marisa Garcia,mgarcia@sbb.org.br,Sociedade Bíblica do Brasil,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:33,Margareth Matsumoto,toyota_tsusho@toyotsu.com.br,Sociedade Comercial Toyota Tsusho do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:36,Marly Aparecida De Lima,client@samaritano.com.br,Sociedade Hospital Samaritano,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:39,Daniela,compras@dac.com.br,Sociedade Industrial de Plásticos Dac Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:42,David Oksman,doksman@sogefi.com.br,Sogefi Ind. de Autopeças Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:46,Paula,paula@solupack.com.br,Solupack Sistemas de Embalagens Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:49,Moacir Kasuo Matsuda,soma.regina@attglobal.net,Soma Soluções Magnéticas Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:52,Marcelo Palacius,someco@someco.com.br,Someco Ind. Com. Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:55,Cláudio Alves,claudio.alves@bertelsmann.de,Sonopress - Rimo Ind. e Com. Fonográfica Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:57:58,Paulo Garcia,import@staner.com.br,Sonotec Eletrônica Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:01,Edmundo Damian Faibro,info@spectrun.com.br,Spectrun Bio Engenharia Medica Hospitalar Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:05,Edgardo Rivero,edgardo@spiderimport.com.br,Spider Import Comercio Importação e Exportação Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:08,Kimiko Yabase,spraybr@mandic.com.br,Spraying Systems do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:11,Lílian Santos,stamptec@stamptec.com.br,Stamptec Ind. e Com. de Peças Estampadas Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:14,Ana Carolina Vilela,carol@staracer.com.br,Star Racer Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:17,Valter Neres Toro,comercial@starkbr.com.br,Stark do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:21,Antonio Mendes,starkey@starkey.com.br,Starkey do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:24,Paulo,paulo.barreto@stauffbrasil.com,Stauff Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:27,Priscila,adm.comex@steck.com.br,Steck Industria Elétrica Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:30,Fabiana Alves,falves@steelcase.com.br,Steelcase Com. de Móveis Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:33,Silvia Andrade,stockval@stockval.com.br,Stockval Tecno Comercial Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:37,Robert Josephe,stoller@stoller.com.br,Stoller do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:40,Wagner Perez,wagner.perez@stork.com,Stork Prints Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:43,Scyla,funpec@funpec.br,Straumann Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:47,Fernando Cardoso,fcardoso@cutrale.com.br,Sucocítrico Cutrale Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:50,Edson Takahashi,sulzer.brasil@sulzer.com,Sulzer Brasil S.A.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:53,Dinny,dinny@sunguider.com.br,Sunguider Incorporadora e Com. Exterior Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:56,Luiz Nishikawa,marcos@sunnyvale.com.br,Sunnyvale Comércio e Representações Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:58:59,Cadu,cadu.dalla@nunhems.com,Sunseeds Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:59:03,Tieco,sunset_imp@uol.com.br,Sunset Importação e Exportação Ltda,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:59:06,Margarete Constâncio Spinelli,margarete@br.surtec.com,Surtec do Brasil Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:59:09,Elizabete Mota,elizabete.mota@sweetmix.com.br,Sweetmix Ind. Com. Imp. e Exp. Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:59:12,Wagner Bonfim,wagner.bonfim@syngenta.com,Syngenta Seeds Ltda.,ENVIADO,otaviomcruz42@gmail.com
+2026-10-04 19:59:15,Elaine,adm@systecmetal.com.br,Systec Metalúrgica Ltda.,ENVIADO,otaviomcruz42@gmail.com
