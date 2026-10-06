@@ -609,6 +609,206 @@ data_hora,nome,email,empresa,status,remetente
 2026-09-23 20:16:24,Luis Gaspar,gaspar@lupo.com.br,Lupo S.A.,ENVIADO,azevedohitallo@gmail.com
 2026-09-23 20:16:28,Edson Correa,edson@luxembourg.com.br,Luxembourg Brasil Comércio de Produtos Químicos Ltda.,ENVIADO,azevedohitallo@gmail.com
 2026-09-23 20:16:33,Evandro Moreira,emoreira@lwart.com.br,Lwarcel Celulose e Papel Ltda.,ENVIADO,azevedohitallo@gmail.com
+2026-10-06 10:10:13,José Martins,comex@yashica.com.,Kyocera - Yashica do Brasil Ind. e Com. Ltda.,"ERRO: {'comex@yashica.com.': (553, b'5.1.3 The recipient address <comex@yashica.com.> is not a valid RFC 5321\n5.1.3 address. For more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5a478bee46e88-351469f5c6dsm9468313eec.8 - gsmtp')}",mvf200623@gmail.com
+2026-10-06 10:10:17,André Santos,a.santos@mshimizu.com.br,M Shimizu Elétrica e Pneumática Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:10:37,Gerardo Fracassi,mgb@mandic.com.br,Maccaferri do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:10:42,Carlos Massao Yamasaki,diretoria@macco.com.br,Macco Máquinas e Acessórios Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:10:47,Carlos,macdermid@macdermid.com.br,Macdermid Artes Gráficas Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:10:52,Osmar Rodrigues Oliveira,vendas@macprado.com.br,Macprado Produtos Oftálmicos Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:10:58,Antonio Carlos,sukira@terra.com.br,Macron Indústria Gráfica Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:11:03,Denise,recep@madepar.com.br,Madepar Laminados S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:11:09,Fernando Nicory,fernando@magmaind.com.br,Magma Indústria e Comércio Têxtil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:11:14,Vera Costa,berlan@uol.com.br,Malharia Berlan Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:11:19,Loretto Bove,loreto@manikraft.com.br,Manikraft Guainazes Ind. de Celulose e Papel Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:11:37,Fernanda Capelli,fcapelli@manitou-group.com,Manitou Brasil Imp. e Com. de Máquinas de Elevação Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:11:49,Fernanda,export@mapol.com.br,Mapol Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:11:55,Cristiane Pavan,cristiane.pavan@mappel.com.br,Mappel Indústria de Embalagens S.A.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:12:05,Fabio,fabio@maqmoveis.com.br,MaqMóveis Industria e Comércio de Móveis Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:12:11,Ignácio Muza Mancilha Filho,produto@margirius.com.br,Mar Girius Continental Ind. de Cont. Elétricos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:12:17,Leticia Bonetti,leticia.bonetti@marel.com,Marel Stork Food Systems Máquinas Alimentícias Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:12:21,José Eduardo Casarin,sales@marilan.com,Marilan Alimentos S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:12:30,Alexander Korich,vendas@marles.com.br,Marles Ind. Têxtil Ecom. Limitada,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:12:38,Paulo Dornellas,marposs@br.marposs.com,Marposs Aparelhos Eletrônicos de Medição Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:12:57,Valdir,stoklux@uol.com.br,Marultex Ind. e Com. de Produtos Ópticos Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:13:05,Robson José Paiva,suprimentos@marvitubos.com.br,Marvitubos Tubos e Peças Hidráulicas Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:13:10,Luciano Riguini,mase@mase.com.br,Mase Produtos Químicos e Farmacêuticos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:13:20,Elaine,elaine@masterpumps.com.br,Master Pumps Embalagens Com. Imp. e Exp. Ltda,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:13:26,Alex,alex@maurano.com.br,Maurano Maurano Ltda,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:13:46,Egon Scheiber,mausa@mausa.com.br,Mausa S.A. Equipamentos Industriais,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:13:53,José Luiz Braga,joseluiz.braga@mausergroup.com,Mauser do Brasil Embalagens Industriais S.A.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:13:59,Ricardo Sheng,rafael@acasa.com.br,Max-Tech Comercial Importação & Exportação Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:14:06,Claudia,mazda@mazdanet.com.br,Mazda Embalagens Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:14:26,Deise,prolam@prolam.com.br,Mbset Ind.l Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:14:46,Cassia,cassia@mcmindustrial.com.br,MCM Química Indl. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:14:51,Eliseo Mota,aberg@mcpeng.com.br,Mcp Consultoria e Engenharia Naval Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:14:57,Fulvio,fulvio.a@policom.com.br,Meb Comercial Importadora e Exportadora Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:15:02,Alex Alves,mecano@mecano.com.br,Mecano Fabril Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:15:09,José Antonio,comercial@mecaplast.com.br,Mecaplast do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:15:13,Roberto Mitsuo Inoue,roberto.inoue@mectrol.com.br,Mectrol do Brasil Comercial Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:15:18,Ronald,importacao@lamedid.com.br,Med Goldman Industria e Com. Ltda. - Epp,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:15:39,Iris Braun,megh@uol.com.br,Megh Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:15:44,Murilo Ribeiro de Araujo,comex@melhoramentos.com.br,Melhoramentos Papéis Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:15:58,Justino Salgueiro,surptos@melitta.com.br,Melitta do Brasil Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:16:04,Moacir,mensageirafrutas@gmail.com,Mensageira Comércio e Importação de Frutas Ltda. - EPP,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:16:09,Luciana Melo,lucianamelo@mepbrasil.com.br,Mep Brasil Com. e Serv. de Maq. e Equip. na Transformação de Aço,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:16:14,Marcos A. Nunes Vasconcelos,vendas.mercocitrico@tlna.com,Mercocítrico Fermentações S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:16:20,Daniela,metalac@metalac.com.br,Metalac Sps Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:16:26,Luiz Eduardo Brunoro,rojek@rojek.com.br,Metalgráfica Rojek Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:16:31,Cassio Gomes / Gilberto,cassio.gomes@metalinox.com.br,Metalinox Aços e Metais Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:16:38,Simone / Fernanda,metalms@metalms.com.br,Metalms Industrial Brasileira de Metais Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:16:44,Paulo César Amarai Maluf,sinterizados@metalpo.com.br,Metalpo Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:16:48,Antônio Lesli,comercial@schadek.com.br,Metalúrgica Schadek Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:17:00,Paolo Fiorleta,marketing@metroval.com.br,Metroval Mecânica e Medição Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:17:05,Isaac da Fonseca,vendas@mettler.com.br,Mettler Toledo Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:17:09,Jayne Silva,jsilva@meyn.com,Meyn Ddo Brasil - Máquinas e Equipamentos Industriais Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:17:14,Guadalupe Rengifo,export@dwr.com.br,Mgi Coutier Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:17:20,Samir Tarobori,miriam@merheje.com.br,Michel Merheje e Cia. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:17:39,Carlos Cesar Bento Ferreira,carlos@microquimica.com,MicroQuímica Indústrias Químicas Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:17:44,Rosana Hermínio,rosana.herminio@midland-quimica.com.br,Midland Química do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:17:51,José Ferreira,amparo@uol.com.br,Minasa Trading International S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:17:56,Rogerio Calderon,minerios@ourobranco.com.br,Minerios Ouro Branco Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:18:00,Sueli Rosa,sueliminesxco@terra.com.br,Minexco Com. Imp. e Exp. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:18:06,Maria José Nascimento Ferraz,comex@miracema-nuodex.com.br,Miracema Nuodex Ind. Química Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:18:12,Paulo Azevedo,pauloazevedo@mirale.com,Mirale Imp. e Exp. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:18:33,Meguro,hi.meguro@mitsui.com.br,Mitsui Brasileira Imp. e Exp. S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:18:52,Luiz Sérgio Campanhão,comex@mitutoyo.com.br,Mitutoyo Sul Americana Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:18:57,Eduardo Alves,mtbcomex@bollhoff.com.br,Mollertec Bollhoff Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:19:02,Aldo de Andail,eximp@montana.com,Montana Química S.A.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:19:08,Antonio Cordeiro Rosa Neto,neto@morlan.com.br,Morlan S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:19:13,Ana Camargo,ana.camargo@motoman.com.br,Motoman Robótica do Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:19:34,Renata,financeiro01@motorsystem.com.br,Motor System Automação Com. Imp. e Exp. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:19:49,Vera Bonora Voltolim,info@msanet.com.br,Msa do Brasil Equip. e Instrumentos de Segurança Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:19:54,Jaqueline / Karen,contato@msiforks.com.br,MSI - Forks Garfos Industriais Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:19:59,Ermeson Pellin,tem@mte-thomson.com.br,Mte Thomson Ind. Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:20:04,Romeu Marcondes Monteiro Neto,mtu.brasil.rj@uol.com.br,Mtu do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:20:10,Lucas Manuel do Santos,lucas.manoel@mubea.com.br,Mubea do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:20:14,Milton,milton@multitek.com.br,Multi Tek Imp. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:20:18,Carlos / Wilson,carlos@multicarnes.com.br,Multicarnes Com. de Alimentos Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:20:37,Sofia Rovath,exports@multicel.com.br,Multicel Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:20:42,Thiago Silva,contato@mundialtractor.com.br,Mundialtractor Com. Imp. e Exp. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:20:50,Luís Carlos Xavier,muratec@muratec.com.br,Murata do Brasil Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:20:54,Edgard Alan Rodrigues,info@murr.com.br,Murrelektronik do Brasil Indústria e Comércio Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:21:15,Claudia,tiago@musical-express.com.br,Musical Express Comercio Ltda,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:21:27,Clotilde,clotilde@mycom.com.br,Mycom Chemical Process do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:21:48,Ediene Felício,efelicio@myersind.com,Myers do Brasil Embalagens Plásticas Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:22:09,Aldemiro Bignarde Jr.,jacto@jacto.com.br,Máquinas Agrícolas Jacto S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:22:28,Jorge Mochizuki,coml@nachi.com.br,Nachi do Brasil Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:22:34,Steven Dabbah,steven@nadir.com.br,Nadir Figueiredo Ind. e Com. S.A.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:22:39,Maria de Lourdes de Oliveira,nagel@nagel.com.br,Nagel Brasil Máquinas e Ferramentas Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:23:01,Nilson Fioravante Donato,nash@correionet.com.br,Nash do Brasil Bombas Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:23:07,Haroldo Paiva Correa Lima,haroldol@nec.com.br,Nec do Brasil S.A.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:23:16,Tiago Barboza,tiago.barboza@newagebebidas.com.br,Newage Indústria e Comércio de Bebidas e Alimentos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:23:25,Rogerio Fanini Junior,ngmetalu@ngmetalurgica.com.br,Ng Metalúrgica Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:23:29,Mario Lutfi,mlutfi@niagara.com.br,Niagara Comercial S.A.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:23:34,Fabio Arantes,nicrom@nicromquimica.com.br,Nicrom Química Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:23:38,Alex Hoster,diret@niehoff.com.br,Niehoff Herborn Máquinas Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:23:43,Renato Rebolho,rrebolho@nilpel.com.br,Nilpel Ind. e Com. de Papéis Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:23:51,Ricardo Tsuboi,ndbmail@nethall.com.br,Nisshinbo do Brasil Ind. Têxtil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:24:11,Fabio,fabio@regattatecidos.com.br,Nixos Coml. Importadora e Exportadora Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:24:15,Andrea Guardino Machado,nordsee@nordsee.com.br,Nordsee Comercial Importadora e Exportadora Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:24:20,Mrilene Dias,hotmelt@nordson.com.br,Nordson do Brasil Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:24:28,Luis Fernando Consentino Pinheiro,export@nortene.com.br,Nortene Plásticos Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:24:48,Mariana,petrene@novapetrene.com.br,Nova Petrene Consultoria Imp. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:24:53,Luiz Antonio Ridigulo,lar@novaplast.com.br,Nova Plast Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:24:58,Orvaci Nicolino,diretoria@novomedica.com.br,Novomedica Com. Imp. e Exp. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:03,Dalila Yamamoto,compras@nsam.com.br,Ns Indústria de Aparelhos Médicos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:07,Bruno,imp1@ntsdobrasil.com.br,NTS do Brasil Comércio de Máquinas e Ferramentas Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:13,Eduardo,eduardo@nutri.com.br,Nutri.Com Tecnologia Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:17,Marcelo,mrodrigues@nutricamp.com.br,Nutricamp - Produtos Agropecuários Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:21,Maria Gorete Castelani,ntplant@correionet.com.br,Nutriplant Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:25:26,Sônia Breda,sonia@ober.com.br,Ober S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:25:31,Ralfi Mayer,ralfimayer@graficaoceano.com.br,Oceano Industria Gráfica e Editora Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:25:35,Patrícia Bonamigo,patricia.bonamigo@oerlikon.com,Oerlikon Balzers Revestimentos Metálicos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:41,Eunice Souza Oliveira,oetker@oetker.com.br,Oetker Produtos Alimentícios Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:45,Adilson Parrella,tamorim@ogara-hess.com,Ogara Hess e Eisenhardt Armoring do Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:50,Fabio,fabio@sovnet.com.br,Ogura Clutch do Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:55,Maria Conceicao,mines@okidata.com.br,Oki Data do Brasil Informática Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:25:59,Cristina,cristina@okuma.com,Okuma Latino Americana Comercio Ltda,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:26:03,Sergio Rapoport,olimpus@olimpus.com.br,Olimpus Industrial e Comercial Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:26:08,Paulo Macari,andrezaenxovais@andrezaenxovais.com.br,Oliveira Lopes Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:26:13,Fernando Lanzilo,fernando.lanzilo@omnilink.com.br,Omnilink Tecnologia S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:26:17,José Gamito Fo,gamito@omnisys.com.br,Omnisys Engenharia Ltda. Epp,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:26:21,Renata Boffo,renata.boffo@optima-bra.com,Optima do Brasil Máquinas de Embalagem Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:26:25,Cristina Fabiano,cristina@opto.com.br,Opto Eletrônica S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:26:31,Luiz Sérgio Bueno de Mattos,luiz_mattos@orica.com,Orica Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:26:36,Christina Vodopizie,christina.vodopizie@orthofix.com.br,Orthofix do Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:26:42,Cristina,ortocir@ortocir.com.br,Ortocir Ortopedia Cirurgia Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:26:47,Marcos,ortomedic@ortomedic.com.br,Ortomedic Distribuidora de Implantes Ortopédicos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:26:52,Marcos Orlandele,orlandeli@osg.com.br,Osg Ferramentas de Precisão Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:26:57,Paula,oswaldocruz@ocq.com.br,Oswaldo Cruz Quimica Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:27:03,Erwin Herbert Kaufmann,assistec@vedacit.com.br,Otto Baumgart Ind. e Com. S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:27:22,Patrícia,oximig@oximig.com.br,Oximig Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:27:43,Carlos,carlos@oxyquimica.com.br,Oxy Química e Metalúrgica Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:27:51,Carlos Alberto da Silva,carlos.export@pacaembuautopecas.com.br,Pacaembu Autopeças Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:27:55,Celly,monforte@monforte.com.br,Pacific Imp. Exp. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:27:59,Douglas Mariano,contato@paletrans.com.br,Paletrans Equipamentos Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:28:05,Edson Farias,edson.farias@panini.com.br,Panini Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:28:11,Renato,financeiro@alumaq.com.br,Parabor Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:28:16,Anna,info@parafix.com.br,Parafix Ind. e Com. de Fitas Adesivas Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:28:21,Marcos Silveira,marcos.silveira@pavax.com.br,Pavax Com. e Representação Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:28:27,Rodrigo Babeto,rodrigo@pecompe.com.br,Pe com Pe Calçados Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:28:33,Paulo Crespo,paulocrespo@arinox.com.br,Pelkote Ind. e Com. de Papéis Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:28:40,Natalia Pires / Dalton Umeara,np@metrohm.com.br,Pensalab Equipamentos Industriais Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:28:48,Fernando Jose de Lima,penzel@penzel.com.br,Penzel Comercio Exterior Ltda,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:28:53,Graciela Scarpelli,graciela.scarpelli@br.pvmgrp.com,Perfetti Van Melle Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:28:57,Luiz Henrique Santos Costa,info@peribrasil.com.br,Peri Formas e Escoramentos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:29:03,Luiz Carlos Araujo,peroladomar@terra.com.br,Perola do Mar Comércio Imp. e Exp. de Produtos Alimentícios Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:29:23,Edilson Dominicheli,edilson.dominicheli@pertech.com.br,Pertech do Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:29:42,Sergio Zini,vendas.peroxidos@solvay.com,Peróxidos do Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:29:47,Pedro da Rocha Roquete,petrom@petrom.com.br,Petrom - Petroquímica Mogi das Cruzes S/A,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:29:52,Pedro Lopes,dewert@phoenix-mecano.com.br,Phoenix Mecano Comercial e Técnica Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:30:08,Leticia,phytoessence@uol.com.br,Phytoessence Fragâncias Ltda. Me,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:30:17,Mara,importacao@pic-web.com.br,PIC Química e Farmacêutica Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:30:36,Paula,paula@pilarquimica.com.br,Pilar Química do Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:30:53,Marco Antonio Oliveira,oliveira@tigre.com.br,Pincéis Tigre S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:31:12,Carlos Zanelatto,piovan@piovan.com.br,Piovan do Brasil Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:31:22,Renato,renato@pkodobrasil.com.br,PKO do Brasil Imp. e Exp. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:31:34,Nilton Antonialli,fernando.fernandes@placo.com.br,Placo do Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:31:39,Dovania,importacao@plantdefender.com.br,Plant Defender Tecnologia Agrícola Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:31:58,Everson Targas,export@plasutil.com.br,Plasutil - Ind. e Com. de Plásticos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:32:03,Nádia de Oliveira,plastipak@plastipak.com.br,Platipak Packaging do Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:32:17,Geraldo Mendonça,plpcoml@plpbrasil.com.br,Plp - Produtos para Linhas Preformados Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:32:37,Flavia,flavia.giovana@polenghi.com.br,Polenghi Industrias Alimentícias Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:32:56,Sergio Ioshio Sassaki Beppu,poli@polinutri.com.br,Poli-nutri Alimentos Ltda,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:33:01,Sonia Augusta,segrmv@polimix.com.br,Polimix Concreto Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:33:05,Monica O M Souza Zacarin,monica@polimold.com.br,Polimold Industrial S.A.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:33:11,Agnaldo Victor Fafarro,polo@traex.com.br,POLO COMERCIO INTERNACIONAL LTDA,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:33:16,Erika Werneck de Castro,vendas@polyclip.com.br,Poly Clip System Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:33:36,Flavio,flavio@tovani.com.br,Polyfit Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:33:54,Gino Chiapetta,gino.chiapetta@polynt.com,Polynt Composites Brazil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:33:59,Mauro Majerowicz,mauro@polyorganic.com.br,Polyorganic Tecnologia Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:34:04,Fernanda Pamplona,brasil@polysack.com,Polysack Indústrias Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:34:08,Marcos,marcos@pomarnovo.com.br,Pomar Novo Imp. e Exp. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:34:14,Adalberto de Oliveira Bento,exportacao@jazam.com.br,Pompéia S.A. Ind. e Com. - Jazam Alimentos,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:34:20,Hoover de Oliveira Urbano Jr,compras@porcher.com.br,Porcher do Brasil Tecidos de Vidro Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:34:26,Carlos,cabottini@portofinobrasil.com.br,Portofino Ind. e Com. de Plásticos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:34:35,Simone Grimaldi,simone@prafesta.com.br,Prafesta Ind. e Com. Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:34:51,Carlos Tanaka,vendas@pramac.com.br,Pramac Brasil Equipamentos Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:35:10,Carlos Lima,carlos.lima@aromat.com.br,Prime do Brasil Ind. e Com. de Produtos Químicos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:35:15,Regis Barbosa,regis.primicia@uol.com.br,Primicia S.A. Ind. e Com.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:35:32,Edmilson Ferreira,schin@schincariol.com.br,Primo Schincariol Ind. de Cervejas e Refrigerantes S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:35:41,Lucia Pestana,tintas@printcor.com.br,Printcor Ind. e Com. de Tintas e Vernizes Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:35:47,Antonio Ferreira Da Silva,proar@proar-aviacao.com.br,Proar - Aeronaves e Revisões Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:35:55,Valdir Borges,borges.v@pg.com,Procter e Gamble Industrial e Comercial Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:36:05,Carlos Muller,metaltex@metaltex.com.br,Produtos Eletrônicos Metaltex Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:36:13,Jose Adolfo Trevelin / Renata Faggioni,ourofinovet@ourofino.com,Produtos Veterinários Ouro Fino Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:36:29,Bruno Araújo,bruno.araujo@prolind.com.br,Prolind Indl. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:36:38,Neuza,vendas@promaflex.com.br,Promaflex Industrial Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:36:43,Geovana,promat@promat.com.br,Promat Indústria e Comércio Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:36:49,Jairo Martins,jairo@proparts.esp.br,Proparts Power Comércio e Importacão Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:36:54,Claudia Guimarães,claudia.guimaraes@br.elofhansson.com,Prot Cap Artigos Para Proteção Industrial Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:37:00,Elissandra Yamada,elissandra.yamada@protervac.com.br,Protervac Ind. e Com. de Embalagens e Máquinas Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:37:21,Joel,jppereira@psitecnologia.com.br,Psi Tecnologia Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:37:26,Valter Munhões,cmunhoes@pticorp.com.br,Pti Power Tansmission Industries do Brasil S.A.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:37:32,Fabio Sousa,purolite@purolite.com.br,Purolite do Brasil Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:37:39,Haidy Busch Torres,pmb@putzmeister.com.br,Putzmeister Brasil Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:37:44,Aparecido Sandre,qg@qginox.com.br,Q.G. Ind.e Comércio de Acessórios Industriais Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:37:49,Andréa,quimanil@quimanil.com.br,Quimanil Produtos Químicos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:37:53,Nelson Junqueira,quirios@quirios.com.br,Quirios Produtos Químicos Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:37:58,Messias Fiel de Souza,frabini@ibm.net,Rassini - Nhk Autopeças S.A.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:38:04,Berenice,bere@realfrutas.com.br,Real Frutas - Eireli,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
+2026-10-06 10:38:10,Daniel Saieg Wolkind,realum@realum.com.br,Realum Ind. e Com. Ltda.,ENVIADO,mvf200623@gmail.com
+2026-10-06 10:38:14,Antônio Paulino,rebela@deltabr.com.br,Rebela Comercial Exportadora Ltda.,BOUNCE / EMAIL INEXISTENTE,mvf200623@gmail.com
 2026-10-04 19:43:18,Fernanda,export@mapol.com.br,Mapol Ind. e Com. Ltda.,ENVIADO,otaviomcruz42@gmail.com
 2026-10-04 19:43:21,Cristiane Pavan,cristiane.pavan@mappel.com.br,Mappel Indústria de Embalagens S.A.,ENVIADO,otaviomcruz42@gmail.com
 2026-10-04 19:43:24,Fabio,fabio@maqmoveis.com.br,MaqMóveis Industria e Comércio de Móveis Ltda.,ENVIADO,otaviomcruz42@gmail.com
